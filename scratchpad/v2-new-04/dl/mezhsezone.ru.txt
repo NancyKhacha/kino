@@ -1,0 +1,64 @@
+{{другие значения|Межсезонье}}
+{{Фильм
+| РусНаз           = Межсезонье
+| ОригНаз          = 
+| Изображение      = Межсезонье 2021.jpeg
+| Размер           = 
+| Жанр             = [[криминал (жанр)|криминал]],<br>[[мелодрама]]
+| Режиссёр         = [[Александр Хант]]
+| Продюсер         = [[Александр Хант]],<br>[[Рубен Дишдишян]]
+| Сценарист        = Владислав Малахов,<br>[[Александр Хант]]
+| Оператор         = Наталья Макарова
+| Композитор       = 
+| Художник-постановщик = Никита Евглевский
+| Хореограф        = 
+| Компания         = 1147 Productions<br>Переворот
+| Время            = 108 мин.
+| Бюджет           = 
+| Сборы            = 
+| Страна           = {{RUS}}
+| Язык             = [[Русский язык|русский]]
+| Год              = 2021
+| Предыдущий фильм = 
+| Следующий фильм  = 
+| imdb_id          = 
+| Сайт             = 
+}}
+
+'''«Межсезонье»''' — российский криминально-мелодраматический фильм, снятый режиссёром [[Хант, Александр Владимирович|Александром Хантом]] в 2021 году<ref>{{Cite web |url=https://www.ng.ru/cinematograph/2022-06-21/8_8466_film.html |title=Герои «Межсезонья» превращаются из Ромео и Джульетты в Бонни и Клайда |access-date=2024-01-14 |archive-date=2024-01-14 |archive-url=https://web.archive.org/web/20240114092706/https://www.ng.ru/cinematograph/2022-06-21/8_8466_film.html |url-status=live }}</ref><ref>[https://www.kommersant.ru/doc/5434139 Демисезонный бунт] {{Wayback|url=https://www.kommersant.ru/doc/5434139 |date=20220702104454 }} // [[Коммерсантъ]]</ref><ref>{{Cite web |url=https://www.film.ru/articles/recenziya-na-film-mezhsezone-davay-prikolemsya |title=Рецензия на фильм «Межсезонье»: Давай приколемся! |access-date=2024-01-14 |archive-date=2024-01-14 |archive-url=https://web.archive.org/web/20240114092622/https://www.film.ru/articles/recenziya-na-film-mezhsezone-davay-prikolemsya |url-status=live }}</ref><ref>{{Cite web |url=https://www.mk.ru/culture/2022/03/30/rezhisser-aleksandr-khant-poluchil-tri-nagrady-za-film-o-tragedii-2016-goda.html |title=Режиссер Александр Хант получил три награды за фильм о трагедии 2016 года |access-date=2022-06-08 |archive-date=2022-06-08 |archive-url=https://web.archive.org/web/20220608051633/https://www.mk.ru/culture/2022/03/30/rezhisser-aleksandr-khant-poluchil-tri-nagrady-za-film-o-tragedii-2016-goda.html |url-status=live }}</ref><ref>{{Cite web |url=https://ugra.aif.ru/culture/persons/ya_veryu_v_kino_na_kolenke_aleksandr_hant_o_syomkah_filma_mezhsezone |title=«Я верю в кино на коленке». Александр Хант – о съёмках фильма «Межсезонье» |access-date=2022-06-08 |archive-date=2022-03-09 |archive-url=https://web.archive.org/web/20220309110158/https://ugra.aif.ru/culture/persons/ya_veryu_v_kino_na_kolenke_aleksandr_hant_o_syomkah_filma_mezhsezone |url-status=live }}</ref><ref>{{Cite web |url=https://rg.ru/2022/05/13/vyshel-trejler-mezhsezonia-aleksandra-hanta.html |title=Вышел трейлер «Межсезонья» Александра Ханта |access-date=2022-06-08 |archive-date=2022-06-08 |archive-url=https://web.archive.org/web/20220608053136/https://rg.ru/2022/05/13/vyshel-trejler-mezhsezonia-aleksandra-hanta.html |url-status=live }}</ref>. Выход фильма в широкий прокат состоялся 23 июня 2022 года<ref>{{Cite web |url=https://www.afisha.ru/movie/244633/ |title=Межсезонье |access-date=2022-06-08 |archive-date=2022-06-08 |archive-url=https://web.archive.org/web/20220608051633/https://www.afisha.ru/movie/244633/ |url-status=live }}</ref><ref>{{Cite web|lang=ru|url=https://meduza.io/feature/2022/06/22/mezhsezonie-drama-aleksandra-hanta-avtora-vitki-chesnoka-o-vlyublennyh-podrostkah|title=«Межсезонье» — драма Александра Ханта, автора «Витьки Чеснока», о влюблённых подростках В основе сценария — история покончивших с собой псковских школьников|website=Meduza|access-date=2022-06-24|archive-date=2022-06-23|archive-url=https://web.archive.org/web/20220623083231/https://meduza.io/feature/2022/06/22/mezhsezonie-drama-aleksandra-hanta-avtora-vitki-chesnoka-o-vlyublennyh-podrostkah|url-status=live}}</ref>.
+
+Фильм основан на реальных событиях на инциденте, произошедшем в посёлке [[Струги Красные]] в [[Псковская область|Псковской области]] с 15-летними [[Муравьёв и Власова|Денисом Муравьёвым и Катериной Власовой]] 14 ноября 2016 года<ref>{{Cite web|url=https://regnum.ru/news/2620108.html|title=В Екатеринбурге ждут начала съёмок нового фильма Ханта|author=|website=ИА REGNUM|date=|publisher=|access-date=2019-05-27|archive-date=2019-05-01|archive-url=https://web.archive.org/web/20190501000229/https://regnum.ru/news/2620108.html|url-status=live}}</ref>.
+
+== Сюжет ==
+Действие фильма происходит в Екатеринбурге в 2016 году. Фильм рассказывает об одноклассниках — юноше Даниле и девушке Саше, выросших в проблемных семьях и, после унизительного для них инцидента на дискотеке, решивших противопоставить себя социуму. Прямо со школьного урока они совершают побег и несколько дней проводят вдвоем, попутно совершая ряд преступлений и других антиобщественных поступков. По ходу дела они забирают оружие отчима Саши — майора полиции, угоняя его внедорожник. После этого майор инициирует поиски беглецов. Спустя некоторое время их обнаруживают в заброшенном доме местного фрика по кличке Дырявый. Несмотря на уговоры майора и матерей Саши и Данилы, те отказываются сдаваться и погибают во время штурма дома [[Специальный отряд быстрого реагирования|СОБРом]].
+
+== В ролях ==
+
+* [[Итунин, Константин Львович|Константин Итунин]] — ''помощник Виктора''
+* [[Чериченко, Ирина Вячеславовна|Ирина Чериченко]] — ''Ольга Романовна''
+* Женя Виноградова — ''Саша Макарова''
+* Игорь Иванов — ''Данила Краснов''
+* Ольга Саханова — ''Ирина''
+* Жанна Пугачёва — ''Снежана''
+* Константин Гацалов — ''Виктор''
+* Владимир Спартак — ''Дырявый''
+* Илья Мозговой — ''велосипедист''
+* Денис Курлаев — ''начальник полиции''
+
+== Награды и номинации ==
+* [[2021 год|2021]] — премия молодёжного жюри [[Варшавский кинофестиваль|Варшавского кинофестиваля]]<ref>{{Cite web|lang=ru|url=https://www.proficinema.ru/mainnews/festival/detail.php?ID=344413|title=Российские ленты получили призы в Варшаве|website=proficinema.ru|access-date=2021-10-18|archive-date=2021-10-18|archive-url=https://web.archive.org/web/20211018113928/https://www.proficinema.ru/mainnews/festival/detail.php?ID=344413|url-status=live}}</ref>.
+* 2021 — специальный приз фестиваля молодежных и детских фильмов Just Film в рамках 25 [[Таллиннский кинофестиваль "Тёмные ночи"|Таллиннского кинофестиваля «Темные ночи»]]<ref>{{Cite web|lang=ru|url=https://www.proficinema.ru/mainnews/festival/detail.php?ID=346405|title=Российская актриса стала самым молодым лауреатом фестиваля Темные ночи|website=www.proficinema.ru|access-date=2021-11-28|archive-date=2021-11-28|archive-url=https://web.archive.org/web/20211128144718/https://www.proficinema.ru/mainnews/festival/detail.php?ID=346405|url-status=live}}</ref>.
+* [[2022 год|2022]] — гран-при 14-го международного [[кинофестиваль|кинофестиваля]] «Северный характер» в Мурманске<ref>{{Cite web|lang=ru|url=https://kino.rambler.ru/movies/49726463-film-mezhsezone-poluchil-gran-pri-na-kinofestivale-severnyy-harakter/|title=Фильм «Межсезонье» получил гран-при на кинофестивале «Северный характер»|author=Катя Кобышева|website=Рамблер/кино|date=2022-11-20|access-date=2022-11-20|archive-date=2022-11-20|archive-url=https://web.archive.org/web/20221120110633/https://kino.rambler.ru/movies/49726463-film-mezhsezone-poluchil-gran-pri-na-kinofestivale-severnyy-harakter/|url-status=live}}</ref>.
+
+== Критика ==
+Критик Тимур Алиев в своей рецензии, опубликованной на сайте «Киноафиша» обратил внимание несколько моментов: что «многие детали художественного фильма отходят в сторону от реальности», что «отношения между подростками не были крепкими, скажем, их вообще не существовало» и что «в фильме задаются самые сокровенные вопросы, правда, вразумительных ответов на них в кадре не будет, чем кино явно раздражает», однако похвалил «видение подросткового естества» режиссёром Александром Хантом и отметил, что «фильм не подлежит пересмотру»<ref>{{Cite web|url=https://www.kinoafisha.info/reviews/8329186/|title=«Межсезонье»: Рецензия Киноафиши|lang=ru|author=Тимур Алиев|website=Киноафиша|date=2022-06-20|url-status=live}}</ref>.
+
+== Примечания ==
+{{примечания}}
+
+{{вс}}
+[[Категория:Фильмы на русском языке]]
+[[Категория:Фильмы России 2021 года]]
+[[Категория:Криминальные фильмы-драмы России]]
+[[Категория:Молодёжные фильмы России]]
+[[Категория:Криминальные фильмы, основанные на реальных событиях]]

@@ -1,0 +1,115 @@
+{{Short description|2019 film by Yoon Ga-eun}}
+{{Use mdy dates|date=June 2026}}
+{{Infobox film
+| name           = The House of Us
+| image          = The House of Us.jpg
+| image_upright  =
+| caption        = Theatrical release poster
+| native_name    = {{Infobox Korean film name
+| hangul         = ^우리집
+}}
+| director       = [[Yoon Ga-eun]]
+| producer       = {{Plainlist|
+* Kim Ji-hye
+* Kim Se-hoon
+}}
+| writer         = Yoon Ga-eun
+| based_on       = 
+| starring       = {{Plainlist|
+* Kim Na-yeon
+* [[Kim Si-a]]
+* [[Joo Ye-rim]]
+}}
+| music          = Yeon Ri-mok
+| cinematography = Kim Ji-hyun
+| editing        = Park Se-young
+| studio         = ATO
+| distributor    = [[Lotte Entertainment]]
+| released       = {{Film date|2019|08|22}}
+| runtime        = 92 minutes
+| country        = South Korea
+| language       = Korean
+| budget         =
+| gross          = {{USD|339,356}}<ref>{{Cite Box Office Mojo|title=The House of Us|access-date=June 19, 2026|id=10713818}}</ref>
+}}
+
+'''''The House of Us''''' ({{korean|우리집}}) is a 2019 South Korean [[drama film]] written and directed by [[Yoon Ga-eun]] and stars Kim Na-yeon, [[Kim Si-a]], and [[Joo Ye-rim]]. Distributed by [[Lotte Entertainment]], the film was released in South Korea on August 22, 2019.
+
+==Plot==
+Hana is a 12-year-old girl who, along with her 16-year-old brother Chan, witnesses her parents' arguments every day. Her mother seems consumed by a demanding job, while her father often comes home drunk.
+
+Having been chosen as the top student in her class, Hana begins her summer vacation with goals that will allow her to learn useful skills such as doing household chores and cooking, while also easing her mother's burden so that she might be less aggressive toward her father. Although her mother understands Hana's intentions, she would rather have her daughter focus on her studies and does not believe she needs any help.
+
+After a chance encounter with two sisters, Yoo-mi and Yoo-jin, Hana begins spending time with them and notices similarities between their families. The girls' parents are always away working, but the hardest thing for them to endure is the constant moving. In fact, although they have only recently relocated, they will soon have to move again.
+
+Hana organizes a form of passive resistance campaign, amusing herself by helping the two younger girls sabotage visits from prospective new tenants. When she later discovers that her father is having an affair, she hides his cell phone and devises what she believes is the only way to save her family: organizing a trip for everyone to take together.
+
+She devotes herself wholeheartedly to the plan and eventually succeeds in persuading her reluctant parents. However, on the eve of the departure, pleasantly surprised to see her parents talking calmly and peacefully, she overhears their conversation and learns that they have already agreed to divorce and that, at the end of this last trip together, they plan to tell the children.
+
+The following morning, instead of leaving with her family, Hana runs away to her two friends and convinces them to embark on a journey to visit their parents at their workplace, hoping to persuade them not to move again. The plan fails because the three girls get lost in the complicated public transportation network, though they fortunately manage to find a comfortable place to spend the night.
+
+When Hana returns home, she finds nobody there. She begins cooking and prepares a meal for the whole family. When her family finally returns, they are furious, having even called the police to help find her. But Hana reassures everyone and invites them to sit down and eat the meal she has prepared. After all, before a journey, one should have a good meal.
+
+==Cast==
+* Kim Na-yeon as Hana
+* [[Kim Si-a]] as Yoo-mi
+* [[Joo Ye-rim]] as Yoo-jin
+* [[Ahn Ji-ho (actor)|Ahn Ji-ho]] as Chan
+
+==Release==
+''The House of Us'' was released on 147 screens in South Korea through [[Lotte Entertainment]] on August 22, 2019.<ref name="notcutnews">{{Cite web |date=September 1, 2019|author=Kim Su-jeong|title="윤가은 신작 '우리집', 개봉 열흘 만에 3만 돌파"|url=https://www.nocutnews.co.kr/news/5206605|access-date=June 19, 2026 |work=[[No Cut News]]}}</ref> On October 5, the film was presented at the [[BFI London Film Festival]].<ref>{{Cite web |date=October 8, 2019|title=Film Review: The House of Us (2019) by Yoon Ga-eun|url=https://asianmoviepulse.com/2019/10/film-review-the-house-of-us-2019-by-yoon-ga-eun/|access-date=June 19, 2026 |website=asianmoviepulse.com}}</ref>
+
+==Reception==
+===Box office===
+During its opening week, the film attracted 16,002 viewers and ranked 13th at the weekly box office. In its second week, it drew 15,500 viewers, placing 14th in the weekly box office rankings, and surpassed a cumulative audience of 30,000 admissions.<ref name="notcutnews" />
+
+===Accolades===
+{| class="wikitable plainrowheaders sortable"
+! scope="col" | Award ceremony
+! scope="col" | Year
+! scope="col" | Category
+! scope="col" | Recipient(s)
+! scope="col" | Result
+! class="unsortable" scope="col" | {{Refh}}
+|-
+! scope="row" rowspan="2" | [[Chunsa Film Art Awards]]
+| rowspan="2" | [[Chunsa Film Art Awards 2020|2020]]
+| Best Screenplay
+| [[Yoon Ga-eun]]
+| {{nom}}
+| rowspan="2" style="text-align:center" | <ref>{{cite web|url=https://entertain.naver.com/read?oid=609&aid=0000256039|title='엑시트' 개최 연기 춘사영화제 6개 부문 최다 노미네이트|date=9 March 2020|work=[[Naver]]|accessdate=2026-06-19|archive-date=2020-05-11|archive-url=https://web.archive.org/web/20200511094730/https://entertain.naver.com/read?oid=609&aid=0000256039|url-status=live}}</ref>
+|-
+| Best New Actress
+| Kim Na-yeon
+| {{nom}}
+|-
+! scope="row" | [[Director's Cut Awards]]
+| 2019
+| Best Independent Film Director
+| Yoon Ga-eun
+| {{nom}}
+| style="text-align:center" | {{Citation needed|date=June 2026}}
+|-
+! scope="row" | Hong Kong Asian Film Festival
+| 2019
+| Best New Director
+| ''The House of Us''
+| {{won}}
+|
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+* {{hancinema film|The_House_of_Us}}
+* {{IMDb title|10713818}}
+
+{{DEFAULTSORT:The House of Us}}
+[[Category:2019 films]]
+[[Category:2019 South Korean films]]
+[[Category:2019 Korean-language films]]
+[[Category:South Korean drama films]]
+[[Category:2019 drama films]]
+[[Category:Lotte Entertainment films]]
+[[Category:Films about children]]

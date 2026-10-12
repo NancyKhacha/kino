@@ -1,0 +1,76 @@
+{{Use mdy dates|date=February 2026}}
+{{Infobox film
+| name           = My Kid Could Paint That
+| image          = Mykidpaintthatver2.jpg
+
+| caption        = Theatrical release poster
+| director       = [[Amir Bar-Lev]]
+| producer       = Amir Bar-Lev
+| writer         = [[Amir Bar-Lev]]
+| narrator       =
+| starring       = [[Amir Bar-Lev]]<br>[[Anthony Brunelli]]<br>[[Marla Olmstead]]
+| music          = [[Rondo Brothers]]
+| cinematography = Matt Boyd<br>Nelson Hume<br>Bill Turnley
+| editing        = Michael Levine<br>John W. Walter
+| studio         = [[Passion Pictures]]<br>[[A&E Television Networks|A&E IndieFilms]]
+| distributor    = [[Sony Pictures Classics]]
+| released       = {{Film date|2007|10|05}}
+| runtime        = 82 minutes
+| country        = United States<br>United Kingdom
+| language       = English
+| budget         =
+| gross          =
+}}
+'''''My Kid Could Paint That''''' is a 2007 [[documentary film]] by director [[Amir Bar-Lev]].  The movie follows the early artistic career of [[Marla Olmstead]], a young girl from [[Binghamton, New York]] who gains fame first as a [[child prodigy]] painter of abstract art, and then becomes the subject of controversy concerning whether she truly completed the paintings herself or did so with her parents' assistance and/or direction. The film was bought by [[Sony Pictures Classics]] in 2007 after premiering at the [[Sundance Film Festival]].
+
+==Taglines==
+* "Inspiration or Manipulation? You Decide."
+* "American dream or art world scheme?"
+
+==Summary==
+After his four-year-old daughter Marla tries to help him paint, amateur artist Mark Olmstead provides her with a canvas and supplies, with which she produces her own artwork. Her parents' friend displays her paintings in his coffee shop and is surprised when people ask to buy them. Local newspaper reporter Elizabeth Cohen writes a piece about Marla, which is picked up by ''[[The New York Times]]'', from which Marla gains more notoriety and her work is displayed at galleries in [[New York City]] and [[Los Angeles]], some selling for hundreds of thousands of dollars.
+
+However, a February 2005 report by [[CBS News]]' ''[[60 Minutes II]]'' questions whether Marla painted the works attributed to her. Child [[psychologist]] [[Ellen Winner]], an expert in cognition in the arts and gifted children, reacts positively to the art attributed to Marla, but after seeing home footage shot by ''60 Minutes'' and Marla's parents of her painting, Winner observes that she does nothing out of the ordinary and is only pushing paint around, that she is being coached by her parents to continue painting when she tries to stop, and that the finished painting looks less polished than some of the other works attributed to her. Winner concludes that she did not see Marla having extraordinary talent for a child her age and could not have entirely produced the high-value paintings as they look as if they are from different artists, and that it would be unlikely for her to paint in a different way from how she does on camera. 
+
+As speculation mounts, Marla's parents film her creating a new work, ''Ocean'', of which director Bar-Lev and previous admirers of Marla's art are not fully convinced. A couple consider the purchase of ''Ocean'', but are disappointed it does not look like Marla's other works. They eventually agree to buy it, but only after their young children express fondness for it and through pressure from Marla's dealer. Bar-Lev compares ''Ocean'' with the ''60 Minutes'' piece and then with several other works attributed to Marla, allowing viewers to make their own judgments. After seeing the quality of the artwork produced by Marla on camera and the Olmsteads' reaction to the ''60 Minutes'' story, Bar-Lev decides he is not convinced Marla is the sole creator of the artworks, prompting her parents to end their family's involvement in the documentary.
+
+The film also raises questions about the nature of art, especially [[abstract expressionism]], the nature of the documentary process, and the perception that the media imparts fame to subjects only to later subject them to intense scrutiny and criticism.
+
+==Reception==
+In his October 2007 review of Bar-Lev's film, [[Roger Ebert]] stated: "My own verdict as an outsider is, no, Marla didn't paint those works, although she may have applied some of the paint. In the last analysis, I guess it all reduces to taste and instinct. Some paintings are good, says me, or says you, and some are bad. Some paintings could be painted by a child, some couldn't be."<ref>[http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20071018/REVIEWS/710180306 Roger Ebert's review of the film at rogerebert.suntimes.com]</ref>
+
+In his review of Bar-Lev's film, ''[[LA Weekly]]''{{'}}s art critic Doug Harvey reveals a different viewpoint. "The works created by Marla on camera are different from some of her canvasses, similar to others and better than many. Bar-Lev’s big reveal is a bust, and turns what could have been a compelling inquiry into the machinations of the art market and media into a tawdry embarrassment. Apart from the questionable ethics, it’s lousy art. In the final analysis, the filmmaker’s crisis of faith is unconvincing, except as one of a series of blatantly manipulative decisions that, despite the lack of any kind of empirical evidence, bolsters the most commercially viable story that can be milked from the situation — the one where Marla’s parents are supernaturally cunning con artists out to exploit the gullibility of the deluded collectors of essentially fraudulent modern art."<ref>[http://www.laweekly.com/art+books/art/marla-vs-pollock-whos-the-fraudiest/17432/ Doug Harvey's review of the film] at ''[[LA Weekly]]''.com</ref>
+
+As of May 2021, the film holds a 94% "Fresh" rating at the review aggregator website [[Rotten Tomatoes]], based on 83 reviews.<ref>{{Citation|title=My Kid Could Paint That (2007)|url=https://www.rottentomatoes.com/m/my_kid_could_paint_that|language=en|access-date=2021-05-17}}</ref>
+
+==Post-release events==
+As of October 2007, the Olmstead's website<ref>[https://www.marlaolmstead.com MarlaOlmstead.com]</ref> displays videos of Marla working on three more canvases, ''Fairy Map'', ''Rabbit'', and ''Colorful Rain''.<ref>[https://www.marlaolmstead.com/videos-Feb2007.html Videos of Marla Olmstead painting]</ref> The videos employ the jump-cut technique, meaning that the scene (a shot of the canvas on which Marla paints) is generally continuous, but that the action stops and then starts again with the subject (Marla) having shifted position relative to the video frame. As of August 2008, the website depicts 49 canvases it says have been sold and 16 more available for sale, including two of the three works featured in the videos, ''Rabbit'', and ''Colorful Rain''. In a 2015 interview, Marla, then a high school sophomore, said she hasn't seen the movie and doesn't remember the events. She  still paints but has other interests as well.<ref>[https://www.pressconnects.com/story/news/local/2015/12/27/catching-up-child-art-prodigy-marla-olmstead/77668896/ Catching up with child art prodigy Marla Olmstead]</ref>
+
+==See also==
+*''[[F for Fake]]'', a 1974 [[Orson Welles]] documentary which also raised questions about who gets to decide what is and is not art.
+
+==References==
+{{reflist}}
+
+==External links==
+*[https://www.sonyclassics.com/mykidcouldpaintthat/ Movie official website]
+*{{IMDb title|0912592}}
+*{{rotten-tomatoes|id=my_kid_could_paint_that|title=My Kid Could Paint That}}
+*[http://www.filmmakermagazine.com/fall2007/my_kid_paint.php interview with ''My Kid Could Paint That'' director Amir Bar-Lev] at [[Filmmaker Magazine]]
+*[http://www.ioncinema.com/news.php?nid=2216 IONCINEMA.com interview with Amir Bar-Lev]
+
+{{60 Minutes}}
+
+[[Category:American documentary films]]
+[[Category:British documentary films]]
+[[Category:Documentary films about childhood in the United States]]
+[[Category:Documentary films about the media]]
+[[Category:Documentary films about painters]]
+[[Category:Sony Pictures Classics films]]
+[[Category:2007 documentary films]]
+[[Category:2007 films]]
+[[Category:Films directed by Amir Bar-Lev]]
+[[Category:2007 English-language films]]
+[[Category:2007 American films]]
+[[Category:2007 British films]]
+[[Category:English-language documentary films]]
