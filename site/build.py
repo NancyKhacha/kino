@@ -196,6 +196,11 @@ def duration_label(t):
     return f'{m} мин' if m < 60 else f'{m // 60} ч {m % 60:02d} мин' if m % 60 else f'{m // 60} ч'
 
 
+def rating_age(f):
+    m = re.match(r'(\d+)', (f.get('officialRating') or {}).get('value', ''))
+    return int(m.group(1)) if m else 0
+
+
 def held():
     """Карточки, которые ждут решения редакции (fixes/hold.csv): на сайт не попадают."""
     import csv
@@ -217,8 +222,10 @@ def load():
         c = cards.get(f['slug'])
         if not c or c.get('decision') != 'publish' or f['slug'] in hold:
             continue
-        # Маркировка 18+ — информация, запрещённая для детей: в детский каталог такие фильмы не берём
-        if (f.get('officialRating') or {}).get('value', '').startswith('18'):
+        # Маркировка 18+ — информация, запрещённая для детей: в детский каталог такие фильмы не берём.
+        # 16+ — только если возраст НЭН не ниже маркировки; иначе карточка ждёт решения редакции.
+        rating = rating_age(f)
+        if rating >= 18 or (rating >= 16 and c['ageMin'] < rating):
             continue
         t = dict(f)
         t.update({k: v for k, v in (c.get('fixes') or {}).items() if v not in (None, '', [])})

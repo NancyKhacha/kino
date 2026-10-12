@@ -38,6 +38,8 @@ def main():
             status = 'ждёт решения редакции'
         elif rating.startswith('18'):
             status = 'скрыто: маркировка 18+'
+        elif rating.startswith('16') and c['ageMin'] < 16:
+            status = 'ждёт решения редакции: маркировка 16+, возраст НЭН ниже'
         else:
             status = 'опубликовано'
             by_kind[(c.get('fixes') or {}).get('kind') or f['kind']] += 1
