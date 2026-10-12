@@ -22283,10 +22283,7 @@
   "episodeMinutes": 45,
   "seasons": null,
   "episodes": null,
-  "officialRating": {
-   "value": "16+",
-   "sourceUrl": "https://kino.mail.ru/series_928015_zvezdnie_voini_brakovannaya_partiya/"
-  },
+  "officialRating": null,
   "frameSource": "https://resizer.mail.ru/p/70d6889c-9358-5a21-bf7c-ab6fec74436b/AQACATQ25LqlXYhDa-sIVlrC3g041vppvMbG6Vrj_BfB420Sj5LmuGa0RiXr3PpkpL0YCsNUNJyaJSlTb9ahqg3IlTk.webp",
   "oldSlug": "mail-928015-zvezdnie-voini-brakovannaya-partiya",
   "origin": "kino-mail",
