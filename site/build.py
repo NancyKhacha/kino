@@ -67,6 +67,7 @@ TYPO_RULES = [
     (re.compile(r'(?<=\d) (?=[А-Яа-яЁё%])'), NBSP),
     (re.compile(r'(?<=\b[А-ЯЁA-Z]\.) (?=[А-ЯЁA-Z])'), NBSP),
     (re.compile(r' (?=(?:ли|же|бы|ль)\b)'), NBSP),
+    (re.compile(r'(?<=\d)–(?=\d)'), '\u2060–\u2060'),            # «4–10 лет» не разрывается на тире
 ]
 
 
@@ -539,7 +540,7 @@ def render_title(t, in_collections, articles):
 </header>
 <div class="film-grid">
 <div class="film-main">
-{frame_img(t, "film-frame", eager=True)}{credit}
+{frame_img(t, "film-frame", eager=True) if t['frame'] else ''}{credit}
 <section class="block"><h2 class="h2">О чём {word}</h2><div class="prose"><p>{e(c["about"])}</p></div></section>
 <section class="block"><h2 class="h2">Почему советуем</h2><div class="prose"><p>{e(c["whyRecommended"])}</p></div>{note}</section>
 <section class="plate plate-care"><h2 class="h3">Что важно знать родителям</h2><p>{e(c["parentsNote"])}</p>{sens}</section>
