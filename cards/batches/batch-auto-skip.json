@@ -1,0 +1,1886 @@
+[
+  {
+    "slug": "stalnaya-komanda",
+    "title": "Стальная команда",
+    "decision": "skip",
+    "skipReason": "не знаю мультсериал: российский сериал 2024 года, сюжета и героев назвать не могу"
+  },
+  {
+    "slug": "studiya-snovideniy",
+    "title": "Студия сновидений",
+    "decision": "skip",
+    "skipReason": "не знаю мини-сериал достаточно: помню только завязку спин-оффа «Головоломки», сцен не назову"
+  },
+  {
+    "slug": "super-myau",
+    "title": "Супер МЯУ",
+    "decision": "skip",
+    "skipReason": "не знаю мультсериал: российский сериал 2021 года"
+  },
+  {
+    "slug": "tayny-medovoy-doliny",
+    "title": "Тайны медовой долины",
+    "decision": "skip",
+    "skipReason": "не знаю мультсериал: российский сериал 2020 года"
+  },
+  {
+    "slug": "teatr-ezopa",
+    "title": "Театр Эзопа",
+    "decision": "skip",
+    "skipReason": "не знаю мультсериал: корейский сериал 2007 года по басням Эзопа, серий не видел"
+  },
+  {
+    "slug": "teo",
+    "title": "Тео",
+    "decision": "skip",
+    "skipReason": "не знаю мультсериал: испанский сериал 1996 года по книжкам о Тео, серий не видел"
+  },
+  {
+    "slug": "tima-i-toma",
+    "title": "Тима и Тома",
+    "decision": "skip",
+    "skipReason": "не знаю мультсериал: российский сериал 2015 года"
+  },
+  {
+    "slug": "tri-bogatyrya-ni-dnya-bez-podviga",
+    "title": "Три богатыря. Ни дня без подвига",
+    "decision": "skip",
+    "skipReason": "не знаю мультсериал: сериал «Мельницы» 2024 года, серий не видел"
+  },
+  {
+    "slug": "tri-lyagushonka",
+    "title": "Три лягушонка",
+    "decision": "skip",
+    "skipReason": "не знаю мультсериал: советский цикл 1987 года, сюжетов не помню"
+  },
+  {
+    "slug": "turbozavry",
+    "title": "Турбозавры",
+    "decision": "skip",
+    "skipReason": "не знаю мультсериал: российский сериал 2019 года"
+  },
+  {
+    "slug": "um-i-hrum",
+    "title": "Ум и Хрум",
+    "decision": "skip",
+    "skipReason": "не знаю мультсериал: российский сериал 2022 года"
+  },
+  {
+    "slug": "uroki-tetushki-sovy",
+    "title": "Уроки тетушки Совы",
+    "decision": "skip",
+    "skipReason": "не знаю мультсериал: знаю только формат обучающих выпусков, конкретных серий не помню"
+  },
+  {
+    "slug": "ushastik-i-ego-druzya",
+    "title": "Ушастик и его друзья",
+    "decision": "skip",
+    "skipReason": "не знаю мультсериал: советский сериал 1981 года"
+  },
+  {
+    "slug": "fantadrom",
+    "title": "Фантадром",
+    "decision": "skip",
+    "skipReason": "не знаю мультсериал: латвийский сериал о роботах помню только по названию"
+  },
+  {
+    "slug": "feerinki",
+    "title": "Фееринки",
+    "decision": "skip",
+    "skipReason": "не знаю мультсериал: российский сериал 2019 года"
+  },
+  {
+    "slug": "flipper-i-lopaka",
+    "title": "Флиппер и Лопака",
+    "decision": "skip",
+    "skipReason": "не знаю мультсериал: австралийский сериал 1999 года"
+  },
+  {
+    "slug": "hleboutki",
+    "title": "Хлебоутки",
+    "decision": "skip",
+    "skipReason": "не знаю мультсериал достаточно: помню только завязку про уток-развозчиков хлеба, серий не назову"
+  },
+  {
+    "slug": "tsarevny",
+    "title": "Царевны",
+    "decision": "skip",
+    "skipReason": "не знаю мультсериал: российский сериал 2018 года, серий не видел"
+  },
+  {
+    "slug": "tsvetnyashki",
+    "title": "Цветняшки",
+    "decision": "skip",
+    "skipReason": "не знаю мультсериал: российский музыкальный сериал 2021 года"
+  },
+  {
+    "slug": "tsvetnyashki-istorii",
+    "title": "Цветняшки! Истории",
+    "decision": "skip",
+    "skipReason": "не знаю мультсериал: российский сериал 2025 года"
+  },
+  {
+    "slug": "tsvetnyashki-novogodnyaya-diskoteka",
+    "title": "Цветняшки! Новогодняя дискотека",
+    "decision": "skip",
+    "skipReason": "не знаю мультсериал: российский сериал 2025 года"
+  },
+  {
+    "slug": "chempiony",
+    "title": "Чемпионы",
+    "decision": "skip",
+    "skipReason": "не знаю мультсериал: российский сериал 2024 года"
+  },
+  {
+    "slug": "chetvero-v-kube",
+    "title": "Четверо в кубе",
+    "decision": "skip",
+    "skipReason": "не знаю мультсериал: российский сериал 2017 года"
+  },
+  {
+    "slug": "chik-chirikino",
+    "title": "Чик-Чирикино",
+    "decision": "skip",
+    "skipReason": "не знаю мультсериал: российский сериал 2023 года"
+  },
+  {
+    "slug": "sharanavty-geroi-kosmosa",
+    "title": "Шаранавты. Герои космоса",
+    "decision": "skip",
+    "skipReason": "не знаю мультсериал: знаю «Смешариков», но серий этого космического спин-оффа не видел"
+  },
+  {
+    "slug": "shaherezada-nerasskazannye-istorii",
+    "title": "Шахерезада. Нерассказанные истории",
+    "decision": "skip",
+    "skipReason": "не знаю мультсериал: австралийско-немецко-индийский сериал 2017 года"
+  },
+  {
+    "slug": "shou-patrika-stara",
+    "title": "Шоу Патрика Стара",
+    "decision": "skip",
+    "skipReason": "не знаю мультсериал достаточно: помню только формат спин-оффа «Губки Боба», серий не назову"
+  },
+  {
+    "slug": "ekskavator-masya",
+    "title": "Экскаватор Мася",
+    "decision": "skip",
+    "skipReason": "не знаю мультсериал: российский сериал 2015 года"
+  },
+  {
+    "slug": "yuhu-i-ego-druzya",
+    "title": "Юху и его друзья",
+    "decision": "skip",
+    "skipReason": "не знаю мультсериал: корейский сериал 2009 года помню только по названию"
+  },
+  {
+    "slug": "shklt",
+    "title": "#ШКЛТ",
+    "decision": "skip",
+    "skipReason": "не знаю сериал: российский сериал 2022 года"
+  },
+  {
+    "slug": "blogery-na-kanikulah",
+    "title": "Блогеры на каникулах",
+    "decision": "skip",
+    "skipReason": "не знаю сериал: российский сериал 2024 года"
+  },
+  {
+    "slug": "esli-vse-vzroslye-propali",
+    "title": "Если все взрослые пропали",
+    "decision": "skip",
+    "skipReason": "не знаю сериал: российский сериал 2024 года"
+  },
+  {
+    "slug": "letnie-priklyucheniya-otchayannyh",
+    "title": "Летние приключения отчаянных",
+    "decision": "skip",
+    "skipReason": "не знаю сериал: российский сериал 2010 года"
+  },
+  {
+    "slug": "nas-vodila-molodost",
+    "title": "Нас водила молодость...",
+    "decision": "skip",
+    "skipReason": "не знаю фильм: советский многосерийный фильм 1986 года, сюжета и сцен не помню"
+  },
+  {
+    "slug": "ne-mozhet-byt-ili-priklyucheniya-zabavy",
+    "title": "Не может быть! или Приключения Забавы",
+    "decision": "skip",
+    "skipReason": "не знаю сериал: российский сериал 2025 года"
+  },
+  {
+    "slug": "rasskazy-o-keshke-i-ego-druzyah",
+    "title": "Рассказы о Кешке и его друзьях",
+    "decision": "skip",
+    "skipReason": "не знаю сериал: советский телефильм 1974 года"
+  },
+  {
+    "slug": "sudba-barabanshchika",
+    "title": "Судьба барабанщика",
+    "decision": "skip",
+    "skipReason": "не знаю сериал: знаю повесть Гайдара, но не телеэкранизацию 1976 года"
+  },
+  {
+    "slug": "tri-veselye-smeny",
+    "title": "Три веселые смены",
+    "decision": "skip",
+    "skipReason": "не знаю сериал: советский телефильм 1978 года о пионерлагере"
+  },
+  {
+    "slug": "tri-druga-klad-i-matros-koshka",
+    "title": "Три друга, клад и матрос Кошка",
+    "decision": "skip",
+    "skipReason": "не знаю сериал: российский сериал 2026 года, ещё не видел"
+  },
+  {
+    "slug": "tri-talera",
+    "title": "Три талера",
+    "decision": "skip",
+    "skipReason": "не знаю сериал: белорусский сериал 2005 года"
+  },
+  {
+    "slug": "troe-s-ploshchadi-karronad",
+    "title": "Трое с площади Карронад",
+    "decision": "skip",
+    "skipReason": "не знаю сериал: знаю повесть Крапивина, но не экранизацию 2008 года"
+  },
+  {
+    "slug": "pink-floyd-v-pompeyah",
+    "title": "Pink Floyd в Помпеях",
+    "decision": "skip",
+    "skipReason": "взрослый фильм: концертный фильм рок-группы, не детское кино"
+  },
+  {
+    "slug": "amazoniya-instruktsiya-po-vyzhivaniyu",
+    "title": "Амазония: Инструкция по выживанию",
+    "decision": "skip",
+    "skipReason": "не знаю фильм достаточно: помню только завязку про капуцина в джунглях, сцен не назову"
+  },
+  {
+    "slug": "bez-uma-ot-mambo",
+    "title": "Без ума от Мамбо",
+    "decision": "skip",
+    "skipReason": "не знаю фильм: ирландская подростковая комедия 2000 года, сюжета не помню"
+  },
+  {
+    "slug": "blinker-i-yadovitye-othody",
+    "title": "Блинкер и ядовитые отходы",
+    "decision": "skip",
+    "skipReason": "не знаю фильм: бельгийская семейная комедия 2008 года"
+  },
+  {
+    "slug": "bobbi",
+    "title": "Бобби",
+    "decision": "skip",
+    "skipReason": "не знаю фильм: индийская романтическая мелодрама 1973 года, сцен не помню"
+  },
+  {
+    "slug": "bolshoe-puteshestvie-vglub-okeanov-3d-vozvrashchenie",
+    "title": "Большое путешествие вглубь океанов 3D: Возвращение",
+    "decision": "skip",
+    "skipReason": "не знаю фильм: документальный фильм 2009 года о морской черепахе, не видел"
+  },
+  {
+    "slug": "bratya-c-r-a-z-y",
+    "title": "Братья C.R.A.Z.Y.",
+    "decision": "skip",
+    "skipReason": "взрослый фильм: драма о взрослении с наркотиками и сексуальными сценами"
+  },
+  {
+    "slug": "bud-soboy",
+    "title": "Будь собой",
+    "decision": "skip",
+    "skipReason": "взрослый фильм: британская драма с рейтингом 15+ и сексуальными сценами, сюжет помню плохо"
+  },
+  {
+    "slug": "v-otsutstvie",
+    "title": "В отсутствие",
+    "decision": "skip",
+    "skipReason": "взрослый фильм: документальный короткий метр о крушении парома «Севоль»"
+  },
+  {
+    "slug": "v-tom-godu-kogda-moi-roditeli-uehali-v-otpusk",
+    "title": "В том году, когда мои родители уехали в отпуск",
+    "decision": "skip",
+    "skipReason": "не знаю фильм достаточно: бразильская драма 2006 года, сцен не помню"
+  },
+  {
+    "slug": "volshebnye-pokroviteli-povzrosley-timmi-terner",
+    "title": "Волшебные покровители: Повзрослей, Тимми Тёрнер!",
+    "decision": "skip",
+    "skipReason": "не знаю фильм достаточно: помню только завязку телефильма, сцен не назову"
+  },
+  {
+    "slug": "vrubay-na-polnuyu-katushku",
+    "title": "Врубай на полную катушку",
+    "decision": "skip",
+    "skipReason": "взрослый фильм: подростковая драма с рейтингом R — самоубийство, секс, мат"
+  },
+  {
+    "slug": "vtoroy-shans",
+    "title": "Второй шанс",
+    "decision": "skip",
+    "skipReason": "не знаю фильм: австралийский семейный фильм 2011 года"
+  },
+  {
+    "slug": "god-kogda-u-menya-lomalsya-golos",
+    "title": "Год, когда у меня ломался голос",
+    "decision": "skip",
+    "skipReason": "взрослый фильм: австралийская драма о взрослении с сексуальными сценами и ранней беременностью"
+  },
+  {
+    "slug": "goluboy-svet",
+    "title": "Голубой свет",
+    "decision": "skip",
+    "skipReason": "не знаю фильм: сказка ГДР 1976 года по Гриммам, экранизацию не видел"
+  },
+  {
+    "slug": "golub",
+    "title": "Голубь",
+    "decision": "skip",
+    "skipReason": "не знаю фильм: фильм 1974 года о кругосветном плавании юноши"
+  },
+  {
+    "slug": "gory",
+    "title": "Горы",
+    "decision": "skip",
+    "skipReason": "не знаю фильм достаточно: документальное эссе о горах, сцен не помню"
+  },
+  {
+    "slug": "greys-dzhons-hleb-i-zrelishcha",
+    "title": "Грейс Джонс: Хлеб и зрелища",
+    "decision": "skip",
+    "skipReason": "взрослый фильм: документальный портрет певицы Грейс Джонс"
+  },
+  {
+    "slug": "gruppa-kommitments",
+    "title": "Группа «Коммитментс»",
+    "decision": "skip",
+    "skipReason": "взрослый фильм: музыкальная драма со сплошным матом"
+  },
+  {
+    "slug": "gusyatnitsa",
+    "title": "Гусятница",
+    "decision": "skip",
+    "skipReason": "не знаю фильм: сказка ГДР 1989 года, экранизацию не видел"
+  },
+  {
+    "slug": "dekabrskie-malchiki",
+    "title": "Декабрьские мальчики",
+    "decision": "skip",
+    "skipReason": "взрослый фильм: драма о сиротах-подростках с сексуальными сценами, сюжет помню плохо"
+  },
+  {
+    "slug": "derevyannyy-telenok",
+    "title": "Деревянный телёнок",
+    "decision": "skip",
+    "skipReason": "не знаю фильм: немецкая сказка 1961 года"
+  },
+  {
+    "slug": "deti-revolyutsii",
+    "title": "Дети революции",
+    "decision": "skip",
+    "skipReason": "взрослый фильм: документальный фильм о дочерях леворадикальных террористок"
+  },
+  {
+    "slug": "dzhozi-i-koshechki",
+    "title": "Джози и кошечки",
+    "decision": "skip",
+    "skipReason": "не знаю фильм достаточно: помню общую линию сатиры о поп-группе, но не сцены"
+  },
+  {
+    "slug": "dzhoy",
+    "title": "Джой",
+    "decision": "skip",
+    "skipReason": "не знаю фильм: австралийский семейный фильм 1997 года про кенгурёнка"
+  },
+  {
+    "slug": "diana-istoriya-lyubvi",
+    "title": "Диана: История любви",
+    "decision": "skip",
+    "skipReason": "взрослый фильм: мелодрама о последних годах принцессы Дианы"
+  },
+  {
+    "slug": "dlya-tvoego-zhe-blaga",
+    "title": "Для твоего же блага",
+    "decision": "skip",
+    "skipReason": "не знаю фильм: аргентинская драма 2024 года"
+  },
+  {
+    "slug": "dolgiy-put-v-shkolu",
+    "title": "Долгий путь в школу",
+    "decision": "skip",
+    "skipReason": "не знаю фильм: немецкий семейный фильм 1982 года"
+  },
+  {
+    "slug": "dom-angela",
+    "title": "Дом ангела",
+    "decision": "skip",
+    "skipReason": "взрослый фильм: аргентинская драма 1957 года о пробуждении чувственности"
+  },
+  {
+    "slug": "dyavol-iz-myulenberga",
+    "title": "Дьявол из Мюленберга",
+    "decision": "skip",
+    "skipReason": "не знаю фильм: сказка ГДР 1955 года"
+  },
+  {
+    "slug": "zheleznyy-gans",
+    "title": "Железный Ганс",
+    "decision": "skip",
+    "skipReason": "не знаю фильм: сказка ГДР 1988 года"
+  },
+  {
+    "slug": "zhivotnye",
+    "title": "Животные",
+    "decision": "skip",
+    "skipReason": "не знаю фильм: австрийская подростковая драма 2018 года"
+  },
+  {
+    "slug": "zhil-byl-privratnik",
+    "title": "Жил-был привратник",
+    "decision": "skip",
+    "skipReason": "не знаю фильм: датская комедия 1937 года"
+  },
+  {
+    "slug": "zabytye-zhelaniya",
+    "title": "Забытые желания",
+    "decision": "skip",
+    "skipReason": "взрослый фильм: драма «Ромул, мой отец» о психической болезни и самоубийстве"
+  },
+  {
+    "slug": "zagovor-prokaznits",
+    "title": "Заговор проказниц",
+    "decision": "skip",
+    "skipReason": "не знаю фильм: подростковая комедия 1998 года о пансионе для девочек, сцен не помню"
+  },
+  {
+    "slug": "zakony-privlekatelnosti",
+    "title": "Законы привлекательности",
+    "decision": "skip",
+    "skipReason": "взрослый фильм: романтическая комедия о разводных адвокатах"
+  },
+  {
+    "slug": "zdravstvuyte-ya-prodyuser-vudi-allena",
+    "title": "Здравствуйте! Я продюсер Вуди Аллена",
+    "decision": "skip",
+    "skipReason": "не знаю фильм: итальянский короткий метр 2016 года"
+  },
+  {
+    "slug": "zerkalo-velikogo-maga",
+    "title": "Зеркало великого мага",
+    "decision": "skip",
+    "skipReason": "не знаю фильм: сказка ГДР 1980 года"
+  },
+  {
+    "slug": "zolotko-moe",
+    "title": "Золотко мое",
+    "decision": "skip",
+    "skipReason": "дубль: запись уже отклонена в pilot.json (zolotko-moe) — не знаю фильм, шведский короткий метр 1989 года"
+  },
+  {
+    "slug": "izumitelnyy-mister-blanden",
+    "title": "Изумительный мистер Бланден",
+    "decision": "skip",
+    "skipReason": "не знаю фильм достаточно: помню только завязку британской истории о призраках, сцен не назову"
+  },
+  {
+    "slug": "istoriya-frantsa",
+    "title": "История Франца",
+    "decision": "skip",
+    "skipReason": "не знаю фильм: австрийская экранизация Нёстлингер 2022 года"
+  },
+  {
+    "slug": "k-19",
+    "title": "К-19",
+    "decision": "skip",
+    "skipReason": "взрослый фильм: военная драма с натуралистичными сценами лучевой болезни"
+  },
+  {
+    "slug": "kak-prekrasna-moya-semya",
+    "title": "Как прекрасна моя семья!",
+    "decision": "skip",
+    "skipReason": "не знаю фильм: аргентинский музыкальный фильм 1979 года"
+  },
+  {
+    "slug": "kakaya-ona-lyubov",
+    "title": "Какая она, любовь",
+    "decision": "skip",
+    "skipReason": "не знаю фильм: индийская молодёжная комедия 2003 года"
+  },
+  {
+    "slug": "klyanus-eto-ne-ya",
+    "title": "Клянусь, это не я!",
+    "decision": "skip",
+    "skipReason": "не знаю фильм достаточно: канадская драма 2008 года о трудном мальчике, сцен не помню"
+  },
+  {
+    "slug": "kogda-santa-upal-na-zemlyu",
+    "title": "Когда Санта упал на Землю",
+    "decision": "skip",
+    "skipReason": "не знаю фильм: экранизация Корнелии Функе 2011 года, не видел"
+  },
+  {
+    "slug": "korol-vozduha-2-zolotoy-myach",
+    "title": "Король воздуха 2: Золотой мяч",
+    "decision": "skip",
+    "skipReason": "не знаю фильм достаточно: помню только общую линию продолжения «Короля воздуха», сцен не назову"
+  },
+  {
+    "slug": "koshachiy-prints",
+    "title": "Кошачий принц",
+    "decision": "skip",
+    "skipReason": "не знаю фильм: чехословацко-немецкая сказка 1979 года"
+  },
+  {
+    "slug": "krasavitsa-dlya-chudovishcha",
+    "title": "Красавица для чудовища",
+    "decision": "skip",
+    "skipReason": "не знаю фильм достаточно: биографическая драма о Мэри Шелли, сцен не помню"
+  },
+  {
+    "slug": "krasota",
+    "title": "Красота",
+    "decision": "skip",
+    "skipReason": "взрослый фильм: британская драма 1996 года о первой любви подростков с рейтингом 15+"
+  },
+  {
+    "slug": "krysinye-bega",
+    "title": "Крысиные бега",
+    "decision": "skip",
+    "skipReason": "взрослый фильм: комедия на грубом юморе"
+  },
+  {
+    "slug": "lars-i-nastoyashchaya-devushka",
+    "title": "Ларс и настоящая девушка",
+    "decision": "skip",
+    "skipReason": "взрослый фильм: драма о мужчине и секс-кукле"
+  },
+  {
+    "slug": "legenda-longvuda",
+    "title": "Легенда Лонгвуда",
+    "decision": "skip",
+    "skipReason": "не знаю фильм: ирландско-нидерландский семейный фильм 2014 года"
+  },
+  {
+    "slug": "ledi-goluboe-plamya",
+    "title": "Леди голубое пламя",
+    "decision": "skip",
+    "skipReason": "не знаю фильм: австралийский фильм 1977 года о лошади"
+  },
+  {
+    "slug": "lesnoy-razboynik",
+    "title": "Лесной разбойник",
+    "decision": "skip",
+    "skipReason": "не знаю фильм: знаю повесть Пройслера о разбойнике Хотценплотце, но не экранизацию 1974 года"
+  },
+  {
+    "slug": "letayushchiy-klass",
+    "title": "Летающий класс",
+    "decision": "skip",
+    "skipReason": "не знаю фильм: знаю повесть Кестнера, но не экранизацию 1954 года"
+  },
+  {
+    "slug": "loshad-na-balkone",
+    "title": "Лошадь на балконе",
+    "decision": "skip",
+    "skipReason": "не знаю фильм: австрийский семейный фильм 2012 года"
+  },
+  {
+    "slug": "lu-2014",
+    "title": "Лу",
+    "decision": "skip",
+    "skipReason": "не знаю фильм: французская экранизация комикса «Лу!» 2014 года (не дубль мультсериала lu-2009), сцен не помню"
+  },
+  {
+    "slug": "luchshie-veshchi-v-mire",
+    "title": "Лучшие вещи в мире",
+    "decision": "skip",
+    "skipReason": "не знаю фильм: бразильская подростковая драма 2010 года"
+  },
+  {
+    "slug": "lyubopytnyy-shans",
+    "title": "Любопытный Шанс",
+    "decision": "skip",
+    "skipReason": "не знаю фильм: подростковая комедия 2006 года"
+  },
+  {
+    "slug": "lyubyashchie-serdtsa",
+    "title": "Любящие сердца",
+    "decision": "skip",
+    "skipReason": "взрослый фильм: индийская драма о любви и дружбе трёх взрослых мужчин"
+  },
+  {
+    "slug": "mavr-i-vorony-londona",
+    "title": "Мавр и вороны Лондона",
+    "decision": "skip",
+    "skipReason": "не знаю фильм: фильм ГДР 1969 года о Карле Марксе"
+  },
+  {
+    "slug": "malenkie-razboyniki",
+    "title": "Маленькие разбойники",
+    "decision": "skip",
+    "skipReason": "не знаю фильм: латвийско-австрийский семейный фильм 2009 года"
+  },
+  {
+    "slug": "malchik-i-drakon",
+    "title": "Мальчик и дракон",
+    "decision": "skip",
+    "skipReason": "не знаю фильм: шведский короткий метр 1962 года"
+  },
+  {
+    "slug": "malchik-kotoryy-umel-letat",
+    "title": "Мальчик, который умел летать",
+    "decision": "skip",
+    "skipReason": "не знаю фильм достаточно: помню только завязку, сцен не назову"
+  },
+  {
+    "slug": "mama-mama-mama",
+    "title": "Мама, мама, мама",
+    "decision": "skip",
+    "skipReason": "не знаю фильм: аргентинская драма 2021 года"
+  },
+  {
+    "slug": "materi-ploshchadi-maya",
+    "title": "Матери площади Мая",
+    "decision": "skip",
+    "skipReason": "взрослый фильм: документальный фильм о матерях пропавших при аргентинской диктатуре"
+  },
+  {
+    "slug": "mir-apu",
+    "title": "Мир Апу",
+    "decision": "skip",
+    "skipReason": "взрослый фильм: драма Сатьяджита Рея о браке, смерти жены и горе"
+  },
+  {
+    "slug": "moy-mundial",
+    "title": "Мой Мундиаль",
+    "decision": "skip",
+    "skipReason": "не знаю фильм: латиноамериканский фильм 2017 года о юном футболисте"
+  },
+  {
+    "slug": "moy-drug-robot",
+    "title": "Мой друг Робот",
+    "decision": "skip",
+    "skipReason": "не знаю фильм: немецкий семейный фильм 2016 года «Робби, Тобби и Флиуатюут»"
+  },
+  {
+    "slug": "moloty-nad-nakovalney",
+    "title": "Молоты над наковальней",
+    "decision": "skip",
+    "skipReason": "взрослый фильм: австралийская драма о романе с замужней женщиной"
+  },
+  {
+    "slug": "more-tishiny",
+    "title": "Море тишины",
+    "decision": "skip",
+    "skipReason": "не знаю фильм: бельгийско-нидерландский фильм 2003 года"
+  },
+  {
+    "slug": "moya-blestyashchaya-karera",
+    "title": "Моя блестящая карьера",
+    "decision": "skip",
+    "skipReason": "не знаю фильм достаточно: знаю роман Майлз Франклин, но сцен экранизации не помню"
+  },
+  {
+    "slug": "nachalo-zhizni",
+    "title": "Начало Жизни",
+    "decision": "skip",
+    "skipReason": "взрослый фильм: документальный фильм для родителей о раннем детстве"
+  },
+  {
+    "slug": "neobdumannyy-shag",
+    "title": "Необдуманный шаг",
+    "decision": "skip",
+    "skipReason": "не знаю фильм: индийская семейная драма 1983 года"
+  },
+  {
+    "slug": "nepokorennyy",
+    "title": "Непокорённый",
+    "decision": "skip",
+    "skipReason": "не знаю фильм достаточно: вторая часть трилогии Рея об Апу, сцен не помню"
+  },
+  {
+    "slug": "nepohishchennaya-nevesta",
+    "title": "Непохищенная невеста",
+    "decision": "skip",
+    "skipReason": "взрослый фильм: индийская романтическая мелодрама, не для детского каталога"
+  },
+  {
+    "slug": "net-v-lesu-nikakih-razboynikov",
+    "title": "Нет в лесу никаких разбойников",
+    "decision": "skip",
+    "skipReason": "не знаю фильм: шведский короткий метр 1989 года по Линдгрен"
+  },
+  {
+    "slug": "novye-istorii-frantsa",
+    "title": "Новые истории Франца",
+    "decision": "skip",
+    "skipReason": "не знаю фильм: австрийский семейный фильм 2023 года"
+  },
+  {
+    "slug": "novye-priklyucheniya-emilya-iz-lennebergi",
+    "title": "Новые приключения Эмиля из Лённеберги",
+    "decision": "skip",
+    "skipReason": "не знаю фильм: знаю книги Линдгрен об Эмиле, но не помню, какие истории вошли в этот фильм 1972 года"
+  },
+  {
+    "slug": "nostalgiya-po-svetu",
+    "title": "Ностальгия по свету",
+    "decision": "skip",
+    "skipReason": "взрослый фильм: документальное эссе о чилийской пустыне и жертвах диктатуры"
+  },
+  {
+    "slug": "osnovy-ohrany-truda-na-mednom-rudnike",
+    "title": "Основы охраны труда на медном руднике",
+    "decision": "skip",
+    "skipReason": "взрослый фильм: польский экспериментальный короткий метр 1972 года, не детское кино"
+  },
+  {
+    "slug": "ohotniki-za-monstrami",
+    "title": "Охотники за монстрами",
+    "decision": "skip",
+    "skipReason": "не знаю фильм: аргентинская комедия 1987 года"
+  },
+  {
+    "slug": "papa-na-odin-den",
+    "title": "Папа на один день",
+    "decision": "skip",
+    "skipReason": "не знаю фильм: аргентинская комедия 2009 года"
+  },
+  {
+    "slug": "paren-iz-borstalskoy-tyurmy",
+    "title": "Парень из Борстальской тюрьмы",
+    "decision": "skip",
+    "skipReason": "взрослый фильм: драма о Брендане Биэне в колонии для малолетних"
+  },
+  {
+    "slug": "pepe-vysshaya-zhizn",
+    "title": "Пепе. Высшая жизнь",
+    "decision": "skip",
+    "skipReason": "взрослый фильм: документальный портрет президента Уругвая Хосе Мухики"
+  },
+  {
+    "slug": "peppi-dlinnyy-chulok",
+    "title": "Пеппи Длинный чулок",
+    "decision": "skip",
+    "skipReason": "дубль: полнометражный монтаж серий шведского сериала 1969 года, который уже в каталоге — batch-035 / peppi-dlinnyychulok"
+  },
+  {
+    "slug": "peppi-v-strane-taka-tuka",
+    "title": "Пеппи в стране Така-Тука",
+    "decision": "skip",
+    "skipReason": "не знаю фильм достаточно: знаю книги о Пеппи, но сцен этого фильма 1970 года в деталях не помню"
+  },
+  {
+    "slug": "pervaya-lyubov",
+    "title": "Первая любовь",
+    "decision": "skip",
+    "skipReason": "взрослый фильм: экранизация Тургенева о любовном треугольнике с откровенными сценами"
+  },
+  {
+    "slug": "perepoloh-v-shkole",
+    "title": "Переполох в школе",
+    "decision": "skip",
+    "skipReason": "не знаю фильм: бразильская комедия 1990 года"
+  },
+  {
+    "slug": "plennik-raya",
+    "title": "Пленник рая",
+    "decision": "skip",
+    "skipReason": "взрослый фильм: документальный фильм о Холокосте и концлагере Терезин"
+  },
+  {
+    "slug": "poezdka-v-bomsdorf",
+    "title": "Поездка в Бомсдорф",
+    "decision": "skip",
+    "skipReason": "не знаю фильм: короткий метр ГДР 1956 года"
+  },
+  {
+    "slug": "polet-babochek",
+    "title": "Полет бабочек",
+    "decision": "skip",
+    "skipReason": "не знаю фильм достаточно: документальный IMAX-фильм о бабочках-монархах, сцен не помню"
+  },
+  {
+    "slug": "pop-zvezda",
+    "title": "Поп-звезда",
+    "decision": "skip",
+    "skipReason": "не знаю фильм: бразильский фильм с телеведущей Шушей, сцен не помню"
+  },
+  {
+    "slug": "posledniy-drakon-v-poiskah-magicheskoy-zhemchuzhiny",
+    "title": "Последний дракон: В поисках магической жемчужины",
+    "decision": "skip",
+    "skipReason": "не знаю фильм: австралийско-китайский семейный фильм 2011 года"
+  },
+  {
+    "slug": "potselui",
+    "title": "Поцелуи",
+    "decision": "skip",
+    "skipReason": "не знаю фильм достаточно: ирландская драма о сбежавших из дома детях, сцен не помню"
+  },
+  {
+    "slug": "pravosudie-koyota",
+    "title": "Правосудие Койота",
+    "decision": "skip",
+    "skipReason": "не знаю фильм: испанский вестерн 1956 года"
+  },
+  {
+    "slug": "privet-eto-ya",
+    "title": "Привет, это я",
+    "decision": "skip",
+    "skipReason": "не знаю фильм: австралийская подростковая комедия 2008 года"
+  },
+  {
+    "slug": "prints-za-semyu-moryami",
+    "title": "Принц за семью морями",
+    "decision": "skip",
+    "skipReason": "не знаю фильм: сказка ГДР 1982 года"
+  },
+  {
+    "slug": "put-nachinayushchego",
+    "title": "Путь начинающего",
+    "decision": "skip",
+    "skipReason": "не знаю фильм: бразильская комедия 1997 года"
+  },
+  {
+    "slug": "razryv",
+    "title": "Разрыв",
+    "decision": "skip",
+    "skipReason": "взрослый фильм: ирландская криминальная комедия с матом"
+  },
+  {
+    "slug": "rastsvet-miss-dzhin-brodi",
+    "title": "Расцвет мисс Джин Броди",
+    "decision": "skip",
+    "skipReason": "взрослый фильм: драма об учительнице и ученицах с романом и обнажённой натурой"
+  },
+  {
+    "slug": "roman-cheta",
+    "title": "Роман Чета",
+    "decision": "skip",
+    "skipReason": "не знаю фильм: французский короткий метр 1988 года о Чете Бейкере"
+  },
+  {
+    "slug": "rumpelshtiltshen",
+    "title": "Румпельштильцхен",
+    "decision": "skip",
+    "skipReason": "не знаю фильм: сказка ГДР 1960 года"
+  },
+  {
+    "slug": "russkiy-kovcheg",
+    "title": "Русский ковчег",
+    "decision": "skip",
+    "skipReason": "взрослый фильм: авторский фильм-эксперимент Сокурова, детям советовать не будем"
+  },
+  {
+    "slug": "samye-sumasshedshie-piloty-v-mire",
+    "title": "Самые сумасшедшие пилоты в мире",
+    "decision": "skip",
+    "skipReason": "не знаю фильм: аргентинская комедия 1988 года"
+  },
+  {
+    "slug": "svet-lyubvi",
+    "title": "Свет любви",
+    "decision": "skip",
+    "skipReason": "не знаю фильм: немецкая сказка 1991 года"
+  },
+  {
+    "slug": "serdtse-pirata",
+    "title": "Сердце пирата",
+    "decision": "skip",
+    "skipReason": "не знаю фильм: немецкий семейный фильм 1988 года"
+  },
+  {
+    "slug": "serebryanyy-veter",
+    "title": "Серебряный ветер",
+    "decision": "skip",
+    "skipReason": "не знаю фильм достаточно: австралийский фильм о серебристом жеребце, сцен не помню"
+  },
+  {
+    "slug": "serengeti-ne-dolzhen-umeret",
+    "title": "Серенгети не должен умереть",
+    "decision": "skip",
+    "skipReason": "не знаю фильм достаточно: документальный фильм Гржимека 1959 года, сцен не помню"
+  },
+  {
+    "slug": "simon-s-gory",
+    "title": "Симон с горы",
+    "decision": "skip",
+    "skipReason": "не знаю фильм: аргентинская драма 2024 года"
+  },
+  {
+    "slug": "sindbad-i-minotavr",
+    "title": "Синдбад и Минотавр",
+    "decision": "skip",
+    "skipReason": "не знаю фильм: малобюджетное австралийское фэнтези 2011 года"
+  },
+  {
+    "slug": "sledstvie-vedut-ovechki",
+    "title": "Следствие ведут овечки",
+    "decision": "skip",
+    "skipReason": "не знаю фильм: британская комедия-детектив 2026 года, ещё не видел"
+  },
+  {
+    "slug": "spays-uorld",
+    "title": "Спайс Уорлд",
+    "decision": "skip",
+    "skipReason": "не знаю фильм достаточно: комедия о Spice Girls, сцен не помню"
+  },
+  {
+    "slug": "steny-sany",
+    "title": "Стены Саны",
+    "decision": "skip",
+    "skipReason": "взрослый фильм: документальный короткий метр Пазолини"
+  },
+  {
+    "slug": "strashnyy-dom",
+    "title": "Страшный дом",
+    "decision": "skip",
+    "skipReason": "не знаю фильм: австрийский семейный фильм ужасов 2020 года"
+  },
+  {
+    "slug": "tainstvennyy-albert-nobbs",
+    "title": "Таинственный Альберт Ноббс",
+    "decision": "skip",
+    "skipReason": "взрослый фильм: драма о женщине, живущей под мужским именем"
+  },
+  {
+    "slug": "tayna-2-novye-priklyucheniya-na-amazonke",
+    "title": "Тайна 2: Новые приключения на Амазонке",
+    "decision": "skip",
+    "skipReason": "не знаю фильм: бразильский семейный фильм 2005 года (первая «Таина» в каталоге тоже отклонена)"
+  },
+  {
+    "slug": "taynoe-tsarstvo-griby-opredelivshie-nash-mir",
+    "title": "Тайное царство: Грибы, определившие наш мир",
+    "decision": "skip",
+    "skipReason": "не знаю фильм: документальный фильм 2018 года о грибах"
+  },
+  {
+    "slug": "tayny-podvodnogo-mira-3d",
+    "title": "Тайны подводного мира 3D",
+    "decision": "skip",
+    "skipReason": "не знаю фильм достаточно: документальный IMAX-фильм о морских обитателях, сцен не помню"
+  },
+  {
+    "slug": "teleport",
+    "title": "Телепорт",
+    "decision": "skip",
+    "skipReason": "взрослый фильм: экшен со сценами жестокости, подросткам советовать нечего"
+  },
+  {
+    "slug": "tineydzher-goda",
+    "title": "Тинейджер года",
+    "decision": "skip",
+    "skipReason": "не знаю фильм достаточно: австралийская подростковая драма с самоубийством героя, сцен не помню"
+  },
+  {
+    "slug": "umnyy-chelovek",
+    "title": "Умный человек",
+    "decision": "skip",
+    "skipReason": "не знаю фильм: датский фильм 1937 года"
+  },
+  {
+    "slug": "uragan-nad-yamaykoy",
+    "title": "Ураган над Ямайкой",
+    "decision": "skip",
+    "skipReason": "не знаю фильм достаточно: британский фильм о детях у пиратов, сцен не помню"
+  },
+  {
+    "slug": "felisiti",
+    "title": "Фелисити",
+    "decision": "skip",
+    "skipReason": "взрослый фильм: эротика"
+  },
+  {
+    "slug": "flirt",
+    "title": "Флирт",
+    "decision": "skip",
+    "skipReason": "взрослый фильм: австралийская мелодрама о первой любви с сексуальными сценами"
+  },
+  {
+    "slug": "frida",
+    "title": "Фрида",
+    "decision": "skip",
+    "skipReason": "взрослый фильм: байопик Фриды Кало с откровенными сценами"
+  },
+  {
+    "slug": "hlopushka",
+    "title": "Хлопушка",
+    "decision": "skip",
+    "skipReason": "не знаю фильм: польский короткий метр 1976 года"
+  },
+  {
+    "slug": "holodnoe-serdtse-1950",
+    "title": "Холодное сердце",
+    "decision": "skip",
+    "skipReason": "не знаю фильм: знаю сказку Гауфа, но не экранизацию ГДР 1950 года (не путать с «Холодным сердцем» Disney)"
+  },
+  {
+    "slug": "hrabryy-portnyazhka",
+    "title": "Храбрый портняжка",
+    "decision": "skip",
+    "skipReason": "не знаю фильм: сказка ГДР 1956 года"
+  },
+  {
+    "slug": "hrabryy-progulshchik",
+    "title": "Храбрый прогульщик",
+    "decision": "skip",
+    "skipReason": "не знаю фильм: детский фильм ГДР 1967 года"
+  },
+  {
+    "slug": "hrustalnaya-luna",
+    "title": "Хрустальная луна",
+    "decision": "skip",
+    "skipReason": "не знаю фильм: бразильский фильм с телеведущей Шушей, сцен не помню"
+  },
+  {
+    "slug": "shkola-magicheskih-zverey",
+    "title": "Школа магических зверей",
+    "decision": "skip",
+    "skipReason": "не знаю фильм достаточно: немецкая экранизация книг Маргит Ауэр, сцен не помню"
+  },
+  {
+    "slug": "shkolnyy-prizrak",
+    "title": "Школьный призрак",
+    "decision": "skip",
+    "skipReason": "не знаю фильм: детский фильм ГДР 1987 года"
+  },
+  {
+    "slug": "shusha-abrakadabra",
+    "title": "Шуша Абракадабра",
+    "decision": "skip",
+    "skipReason": "не знаю фильм: бразильский фильм с телеведущей Шушей, сцен не помню"
+  },
+  {
+    "slug": "shusha-bliznetsy",
+    "title": "Шуша близнецы",
+    "decision": "skip",
+    "skipReason": "не знаю фильм: бразильский фильм с телеведущей Шушей, сцен не помню"
+  },
+  {
+    "slug": "shusha-i-gobliny",
+    "title": "Шуша и гоблины",
+    "decision": "skip",
+    "skipReason": "не знаю фильм: бразильский фильм с телеведущей Шушей, сцен не помню"
+  },
+  {
+    "slug": "shusha-na-puti-k-poteryannym-sokrovishcham",
+    "title": "Шуша на пути к потерянным сокровищам",
+    "decision": "skip",
+    "skipReason": "не знаю фильм: бразильский фильм с телеведущей Шушей, сцен не помню"
+  },
+  {
+    "slug": "espen-v-korolevstve-trolley",
+    "title": "Эспен в королевстве троллей",
+    "decision": "skip",
+    "skipReason": "не знаю фильм достаточно: норвежская сказка 2017 года, сцен не помню"
+  },
+  {
+    "slug": "etot-sumasshedshiy-paren",
+    "title": "Этот сумасшедший парень",
+    "decision": "skip",
+    "skipReason": "взрослый фильм: индийская романтическая драма"
+  },
+  {
+    "slug": "ya-nachinayu-schitat",
+    "title": "Я начинаю считать",
+    "decision": "skip",
+    "skipReason": "взрослый фильм: триллер о маньяке"
+  },
+  {
+    "slug": "ya-polyubil",
+    "title": "Я полюбил",
+    "decision": "skip",
+    "skipReason": "не знаю фильм достаточно: индийская мелодрама 1989 года, сцен не помню"
+  },
+  {
+    "slug": "ya-ryadom-s-toboy",
+    "title": "Я рядом с тобой!",
+    "decision": "skip",
+    "skipReason": "не знаю фильм достаточно: индийский боевик-комедия 2004 года, сцен не помню"
+  },
+  {
+    "slug": "adam",
+    "title": "Адам",
+    "decision": "skip",
+    "skipReason": "не знаю мультфильм: авторский короткий метр Питера Лорда 1991 года, сцен не помню"
+  },
+  {
+    "slug": "ayvengo",
+    "title": "Айвенго",
+    "decision": "skip",
+    "skipReason": "не знаю мультфильм: австралийская телеэкранизация студии Burbank Films, эту версию не видел"
+  },
+  {
+    "slug": "akkordeon",
+    "title": "Аккордеон",
+    "decision": "skip",
+    "skipReason": "не знаю мультфильм: канадский авторский короткий метр 2004 года"
+  },
+  {
+    "slug": "asteriks-zavoevyvaet-ameriku",
+    "title": "Астерикс завоёвывает Америку",
+    "decision": "skip",
+    "skipReason": "не знаю мультфильм достаточно: немецкая экранизация 1994 года, сцен не помню"
+  },
+  {
+    "slug": "babushkin-retsept",
+    "title": "Бабушкин рецепт",
+    "decision": "skip",
+    "skipReason": "не знаю мультфильм: немецкий мультфильм 2023 года"
+  },
+  {
+    "slug": "banda-kotikov",
+    "title": "Банда котиков",
+    "decision": "skip",
+    "skipReason": "не знаю мультфильм: мексиканский мультфильм о Топ Кэте 2015 года"
+  },
+  {
+    "slug": "barbi-skazochnaya-strana",
+    "title": "Барби: Сказочная страна",
+    "decision": "skip",
+    "skipReason": "не знаю мультфильм достаточно: помню только героиню-фею Элину, сцен не назову (продолжение «Мермедия» в каталоге тоже отклонено)"
+  },
+  {
+    "slug": "bezbiletniki-na-noevom-kovchege",
+    "title": "Безбилетники на Ноевом Ковчеге",
+    "decision": "skip",
+    "skipReason": "не знаю мультфильм: немецкий мультфильм 1988 года"
+  },
+  {
+    "slug": "belosnezhka-brachnyy-sezon",
+    "title": "Белоснежка: Брачный сезон",
+    "decision": "skip",
+    "skipReason": "взрослый мультфильм: французская пародия Пиши с сексуальным юмором"
+  },
+  {
+    "slug": "blinki-bill",
+    "title": "Блинки Билл",
+    "decision": "skip",
+    "skipReason": "не знаю мультфильм достаточно: австралийский мультфильм о коале 1992 года, сцен не помню"
+  },
+  {
+    "slug": "bremenskie-muzykanty-1989",
+    "title": "Бременские музыканты",
+    "decision": "skip",
+    "skipReason": "не знаю мультфильм: испанский мультфильм 1989 года (не дубль советских «Бременских музыкантов»)"
+  },
+  {
+    "slug": "v-mire-zhivotnyh",
+    "title": "В мире животных",
+    "decision": "skip",
+    "skipReason": "не знаю мультфильм достаточно: короткий метр Ника Парка, помню только идею интервью с животными зоопарка"
+  },
+  {
+    "slug": "valentino-i-klan-psa",
+    "title": "Валентино и клан Пса",
+    "decision": "skip",
+    "skipReason": "не знаю мультфильм: мексиканский мультфильм 2008 года"
+  },
+  {
+    "slug": "valhalla",
+    "title": "Вальхалла",
+    "decision": "skip",
+    "skipReason": "не знаю мультфильм достаточно: датский мультфильм о скандинавских богах, сцен не помню"
+  },
+  {
+    "slug": "vedma-lilli-spasaet-rozhdestvo",
+    "title": "Ведьма Лилли спасает Рождество",
+    "decision": "skip",
+    "skipReason": "данные не сходятся: «Ведьма Лилли спасает Рождество» 2017 года — игровое кино, а не мультфильм; сам фильм не знаю"
+  },
+  {
+    "slug": "veter-v-ivah",
+    "title": "Ветер в ивах",
+    "decision": "skip",
+    "skipReason": "не знаю мультфильм: австралийская телеэкранизация студии Burbank Films, эту версию не видел"
+  },
+  {
+    "slug": "vokrug-sveta-s-villi-fogom",
+    "title": "Вокруг света с Вилли Фогом",
+    "decision": "skip",
+    "skipReason": "данные не сходятся: мультсериал о Вилли Фоге вышел в 1983 году, полнометражная версия 1995 года мне неизвестна"
+  },
+  {
+    "slug": "volshebnoe-priklyuchenie-da-vinchi",
+    "title": "Волшебное приключение Да Винчи",
+    "decision": "skip",
+    "skipReason": "не знаю мультфильм достаточно: кукольный фильм 2023 года о Леонардо да Винчи, сцен не помню"
+  },
+  {
+    "slug": "vrata-vremeni",
+    "title": "Врата времени",
+    "decision": "skip",
+    "skipReason": "не знаю мультфильм: испанский мультфильм 2002 года"
+  },
+  {
+    "slug": "gadkiy-utenok-i-ya",
+    "title": "Гадкий утёнок и я",
+    "decision": "skip",
+    "skipReason": "не знаю мультфильм достаточно: мультфильм 2006 года, сцен не помню"
+  },
+  {
+    "slug": "gaturro",
+    "title": "Гатурро",
+    "decision": "skip",
+    "skipReason": "не знаю мультфильм: аргентинский мультфильм 2010 года"
+  },
+  {
+    "slug": "geroy-starogo-i-novogo-mira",
+    "title": "Герой Старого и Нового мира",
+    "decision": "skip",
+    "skipReason": "не знаю мультфильм: итальянский мультфильм 1994 года о Гарибальди"
+  },
+  {
+    "slug": "dnevnik-puteshestvennika",
+    "title": "Дневник путешественника",
+    "decision": "skip",
+    "skipReason": "не знаю мультфильм: японский авторский короткий метр 2003 года"
+  },
+  {
+    "slug": "don-kihot-lamancheskiy",
+    "title": "Дон Кихот Ламанческий",
+    "decision": "skip",
+    "skipReason": "не знаю мультфильм: австралийская телеэкранизация студии Burbank Films, эту версию не видел"
+  },
+  {
+    "slug": "zhivoy-les",
+    "title": "Живой лес",
+    "decision": "skip",
+    "skipReason": "не знаю мультфильм: испанский мультфильм 2001 года"
+  },
+  {
+    "slug": "zabotlivye-mishki-2-novoe-pokolenie",
+    "title": "Заботливые Мишки 2: Новое поколение",
+    "decision": "skip",
+    "skipReason": "не знаю мультфильм достаточно: сцен второго фильма о Заботливых мишках не помню"
+  },
+  {
+    "slug": "zabotlivye-mishki-puteshestvie-v-shutlyandiyu",
+    "title": "Заботливые Мишки: Путешествие в Шутляндию",
+    "decision": "skip",
+    "skipReason": "не знаю мультфильм: фильм о Заботливых мишках 2004 года"
+  },
+  {
+    "slug": "zabotlivye-medvezhata-3",
+    "title": "Заботливые медвежата 3",
+    "decision": "skip",
+    "skipReason": "не знаю мультфильм: третий фильм о Заботливых мишках 1987 года"
+  },
+  {
+    "slug": "zabotlivye-mishki-1985",
+    "title": "Заботливые мишки",
+    "decision": "skip",
+    "skipReason": "не знаю мультфильм достаточно: помню только завязку первого фильма о Заботливых мишках"
+  },
+  {
+    "slug": "iko-otvazhnyy-zherebenok",
+    "title": "Ико — отважный жеребёнок",
+    "decision": "skip",
+    "skipReason": "не знаю мультфильм: аргентинский мультфильм 1983 года"
+  },
+  {
+    "slug": "kak-razvodit-rusalok",
+    "title": "Как разводить русалок",
+    "decision": "skip",
+    "skipReason": "не знаю мультфильм: британский авторский короткий метр"
+  },
+  {
+    "slug": "karlik-i-vedma",
+    "title": "Карлик и ведьма",
+    "decision": "skip",
+    "skipReason": "не знаю мультфильм: итальянский мультфильм 1973 года"
+  },
+  {
+    "slug": "kartina",
+    "title": "Картина",
+    "decision": "skip",
+    "skipReason": "не знаю мультфильм достаточно: помню только завязку о героях картины, ищущих Художника"
+  },
+  {
+    "slug": "kevin-v-strane-drakonov",
+    "title": "Кевин в стране Драконов",
+    "decision": "skip",
+    "skipReason": "не знаю мультфильм: испанский мультфильм 2002 года"
+  },
+  {
+    "slug": "kentervilskoe-prividenie",
+    "title": "Кентервильское привидение",
+    "decision": "skip",
+    "skipReason": "не знаю мультфильм: анимационная экранизация Уайльда 2023 года, не видел"
+  },
+  {
+    "slug": "kiska",
+    "title": "Киска",
+    "decision": "skip",
+    "skipReason": "взрослый мультфильм: польский авторский короткий метр о женской сексуальности"
+  },
+  {
+    "slug": "kopi-tsarya-solomona",
+    "title": "Копи царя Соломона",
+    "decision": "skip",
+    "skipReason": "не знаю мультфильм: австралийская телеэкранизация студии Burbank Films, эту версию не видел"
+  },
+  {
+    "slug": "korol-slon",
+    "title": "Король Слон",
+    "decision": "skip",
+    "skipReason": "не знаю мультфильм: иранский мультфильм 2017 года"
+  },
+  {
+    "slug": "kosmicheskaya-bratva",
+    "title": "Космическая братва",
+    "decision": "skip",
+    "skipReason": "не знаю мультфильм: бразильский мультфильм 2016 года"
+  },
+  {
+    "slug": "kot-feliks-kto-skazal-myau",
+    "title": "Кот Феликс: Кто сказал — мяу?",
+    "decision": "skip",
+    "skipReason": "не знаю мультфильм достаточно: полнометражный фильм о коте Феликсе 1988 года, сцен не помню"
+  },
+  {
+    "slug": "keti",
+    "title": "Кэти",
+    "decision": "skip",
+    "skipReason": "не знаю мультфильм: латиноамериканский мультфильм 1983 года о гусенице"
+  },
+  {
+    "slug": "legenda-o-rytsare",
+    "title": "Легенда о рыцаре",
+    "decision": "skip",
+    "skipReason": "не знаю мультфильм: испанский мультфильм 2003 года о Сиде"
+  },
+  {
+    "slug": "lovushka-dlya-koshek",
+    "title": "Ловушка для кошек",
+    "decision": "skip",
+    "skipReason": "не знаю мультфильм достаточно: венгерская пародия на шпионские боевики, сцен не помню"
+  },
+  {
+    "slug": "madam-tutli-putli",
+    "title": "Мадам Тутли-Путли",
+    "decision": "skip",
+    "skipReason": "взрослый мультфильм: мрачный авторский короткий метр"
+  },
+  {
+    "slug": "maks-i-ego-kompaniya",
+    "title": "Макс и его компания",
+    "decision": "skip",
+    "skipReason": "не знаю мультфильм: швейцарско-французский мультфильм 2007 года"
+  },
+  {
+    "slug": "malenkiy-otvazhnyy-parovozik-tilli",
+    "title": "Маленький отважный паровозик Тилли",
+    "decision": "skip",
+    "skipReason": "не знаю мультфильм: мультфильм 1991 года о паровозике, сцен не помню"
+  },
+  {
+    "slug": "manipulyatsiya",
+    "title": "Манипуляция",
+    "decision": "skip",
+    "skipReason": "не знаю мультфильм: британский авторский короткий метр 1991 года"
+  },
+  {
+    "slug": "manuelita",
+    "title": "Мануэлита",
+    "decision": "skip",
+    "skipReason": "не знаю мультфильм: аргентинский мультфильм 2000 года"
+  },
+  {
+    "slug": "mahni-krylom",
+    "title": "Махни крылом!",
+    "decision": "skip",
+    "skipReason": "не знаю мультфильм достаточно: помню только завязку про воробья, ведущего перелётную стаю"
+  },
+  {
+    "slug": "mishka-i-ego-druzya",
+    "title": "Мишка и его друзья",
+    "decision": "skip",
+    "skipReason": "не знаю мультфильм: канадский фильм о Медвежонке 2001 года"
+  },
+  {
+    "slug": "monika-i-rusalki-rio",
+    "title": "Моника и русалки Рио",
+    "decision": "skip",
+    "skipReason": "не знаю мультфильм: бразильский мультфильм 1987 года"
+  },
+  {
+    "slug": "nastoyashchiy-shlemel",
+    "title": "Настоящий Шлемель",
+    "decision": "skip",
+    "skipReason": "не знаю мультфильм: немецко-канадский мультфильм 1995 года"
+  },
+  {
+    "slug": "nedostayushchee-zveno",
+    "title": "Недостающее звено",
+    "decision": "skip",
+    "skipReason": "не знаю мультфильм: сатирическая комедия Пиши 1980 года для взрослых"
+  },
+  {
+    "slug": "niko-2",
+    "title": "Нико 2",
+    "decision": "skip",
+    "skipReason": "не знаю мультфильм достаточно: финский мультфильм о Нико 2012 года, сцен не помню"
+  },
+  {
+    "slug": "oliver-tvist",
+    "title": "Оливер Твист",
+    "decision": "skip",
+    "skipReason": "не знаю мультфильм: австралийская телеэкранизация студии Burbank Films, эту версию не видел"
+  },
+  {
+    "slug": "opopomoz",
+    "title": "Опопомоз",
+    "decision": "skip",
+    "skipReason": "не знаю мультфильм: итальянский мультфильм Энцо Д'Ало 2003 года"
+  },
+  {
+    "slug": "otvazhnyy-rytsar",
+    "title": "Отважный рыцарь",
+    "decision": "skip",
+    "skipReason": "не знаю мультфильм: немецко-австрийский мультфильм 2015 года"
+  },
+  {
+    "slug": "otchayannye-psy",
+    "title": "Отчаянные псы",
+    "decision": "skip",
+    "skipReason": "взрослый мультфильм: очень мрачная история о бегстве собак из лаборатории с жестокими сценами"
+  },
+  {
+    "slug": "pinokkio-3000",
+    "title": "Пиноккио 3000",
+    "decision": "skip",
+    "skipReason": "не знаю мультфильм достаточно: мультфильм 2004 года, сцен не помню"
+  },
+  {
+    "slug": "piter-v-volshebnoy-strane",
+    "title": "Питер в волшебной стране",
+    "decision": "skip",
+    "skipReason": "не знаю мультфильм: немецкий мультфильм 1990 года"
+  },
+  {
+    "slug": "pomogite-ya-ryba",
+    "title": "Помогите! Я рыба",
+    "decision": "skip",
+    "skipReason": "не знаю мультфильм достаточно: помню только завязку про детей, превратившихся в рыб"
+  },
+  {
+    "slug": "priklyucheniya-ihitusa",
+    "title": "Приключения Ихитуса",
+    "decision": "skip",
+    "skipReason": "не знаю мультфильм: аргентинский мультфильм 1973 года"
+  },
+  {
+    "slug": "priklyucheniya-kristofera-v-volshebnom-lesu",
+    "title": "Приключения Кристофера в волшебном лесу",
+    "decision": "skip",
+    "skipReason": "не знаю мультфильм: бразильский мультфильм 2001 года"
+  },
+  {
+    "slug": "priklyucheniya-odisseya",
+    "title": "Приключения Одиссея",
+    "decision": "skip",
+    "skipReason": "не знаю мультфильм: австралийская телеэкранизация студии Burbank Films, эту версию не видел"
+  },
+  {
+    "slug": "priklyucheniya-robina-guda",
+    "title": "Приключения Робина Гуда",
+    "decision": "skip",
+    "skipReason": "не знаю мультфильм: австралийская телеэкранизация студии Burbank Films, эту версию не видел"
+  },
+  {
+    "slug": "priklyucheniya-sherloka-holmsa-znak-chetyreh",
+    "title": "Приключения Шерлока Холмса: Знак четырёх",
+    "decision": "skip",
+    "skipReason": "не знаю мультфильм: австралийская телеэкранизация студии Burbank Films, эту версию не видел"
+  },
+  {
+    "slug": "prints-shchelkunchik",
+    "title": "Принц Щелкунчик",
+    "decision": "skip",
+    "skipReason": "не знаю мультфильм достаточно: канадская экранизация «Щелкунчика» 1990 года, сцен не помню"
+  },
+  {
+    "slug": "prints-dinozavrov",
+    "title": "Принц динозавров",
+    "decision": "skip",
+    "skipReason": "не знаю мультфильм: итальянский мультфильм 2000 года"
+  },
+  {
+    "slug": "prints-i-108-tsarey-demonov",
+    "title": "Принц и 108 царей-демонов",
+    "decision": "skip",
+    "skipReason": "не знаю мультфильм: франко-бельгийский мультфильм 2015 года"
+  },
+  {
+    "slug": "printsessa-solntsa",
+    "title": "Принцесса Солнца",
+    "decision": "skip",
+    "skipReason": "не знаю мультфильм достаточно: французский мультфильм о Древнем Египте, сцен не помню"
+  },
+  {
+    "slug": "prodavets-dyma",
+    "title": "Продавец дыма",
+    "decision": "skip",
+    "skipReason": "не знаю мультфильм: испанский короткий метр 2012 года"
+  },
+  {
+    "slug": "prop-i-berta",
+    "title": "Проп и Берта",
+    "decision": "skip",
+    "skipReason": "не знаю мультфильм: датский мультфильм 2001 года"
+  },
+  {
+    "slug": "puteshestvie-v-eldorado",
+    "title": "Путешествие в Эльдорадо",
+    "decision": "skip",
+    "skipReason": "не знаю мультфильм: итальянский мультфильм 2002 года по Дарио Фо"
+  },
+  {
+    "slug": "raduzhnoe-puteshestvie",
+    "title": "Радужное путешествие",
+    "decision": "skip",
+    "skipReason": "не знаю мультфильм достаточно: спецвыпуск «Моей маленькой пони» 2019 года, сцен не помню"
+  },
+  {
+    "slug": "riverdans-volshebnoe-priklyuchenie",
+    "title": "Риверданс: волшебное приключение",
+    "decision": "skip",
+    "skipReason": "не знаю мультфильм: ирландский мультфильм 2021 года"
+  },
+  {
+    "slug": "rob-roy",
+    "title": "Роб Рой",
+    "decision": "skip",
+    "skipReason": "не знаю мультфильм: австралийская телеэкранизация студии Burbank Films, эту версию не видел"
+  },
+  {
+    "slug": "rozhdestvenskaya-elka",
+    "title": "Рождественская ёлка",
+    "decision": "skip",
+    "skipReason": "не знаю мультфильм: мультфильм 1991 года"
+  },
+  {
+    "slug": "rozhdestvenskiy-kreker",
+    "title": "Рождественский крекер",
+    "decision": "skip",
+    "skipReason": "не знаю мультфильм: канадский короткий метр 1963 года"
+  },
+  {
+    "slug": "rozhdestvenskoe-zhelanie-angely",
+    "title": "Рождественское желание Ангелы",
+    "decision": "skip",
+    "skipReason": "не знаю мультфильм достаточно: продолжение «Рождества Анджелы» 2020 года, сцен не помню"
+  },
+  {
+    "slug": "rozhdestvo-blinki-billa",
+    "title": "Рождество Блинки Билла",
+    "decision": "skip",
+    "skipReason": "не знаю мультфильм: австралийский мультфильм 2005 года"
+  },
+  {
+    "slug": "roza-bagdada",
+    "title": "Роза Багдада",
+    "decision": "skip",
+    "skipReason": "не знаю мультфильм: итальянский мультфильм 1949 года"
+  },
+  {
+    "slug": "sirkeline-i-samyy-malenkiy-v-mire-supergeroy",
+    "title": "Сиркелине и самый маленький в мире супергерой",
+    "decision": "skip",
+    "skipReason": "не знаю мультфильм: датский мультфильм 2004 года"
+  },
+  {
+    "slug": "sled-vedet-k-zilberze",
+    "title": "След ведёт к Зильберзе",
+    "decision": "skip",
+    "skipReason": "не знаю мультфильм: мультфильм ГДР 1990 года по Карлу Маю"
+  },
+  {
+    "slug": "slonenok-babar-1998",
+    "title": "Слонёнок Бабар",
+    "decision": "skip",
+    "skipReason": "не знаю мультфильм: фильм о Бабаре 1998 года"
+  },
+  {
+    "slug": "slonenok-babar-1989",
+    "title": "Слонёнок Бабар",
+    "decision": "skip",
+    "skipReason": "не знаю мультфильм достаточно: полнометражный «Бабар» 1989 года, сцен не помню"
+  },
+  {
+    "slug": "smelyy-bolshoy-panda",
+    "title": "Смелый большой панда",
+    "decision": "skip",
+    "skipReason": "не знаю мультфильм: немецкий мультфильм 2011 года"
+  },
+  {
+    "slug": "smelyy-rytsar-iz-kamelota",
+    "title": "Смелый рыцарь из Камелота",
+    "decision": "skip",
+    "skipReason": "не знаю мультфильм: австралийский мультфильм 1998 года"
+  },
+  {
+    "slug": "smurfiki-i-volshebnaya-fleyta",
+    "title": "Смурфики и волшебная флейта",
+    "decision": "skip",
+    "skipReason": "не знаю мультфильм достаточно: бельгийский фильм о смурфиках 1976 года, сцен не помню"
+  },
+  {
+    "slug": "sonik-noch-ezha-oborotnya",
+    "title": "Соник: Ночь ежа-оборотня",
+    "decision": "skip",
+    "skipReason": "не знаю мультфильм: рекламный короткий метр к игре Sonic Unleashed"
+  },
+  {
+    "slug": "soplivyy-malchik",
+    "title": "Сопливый мальчик",
+    "decision": "skip",
+    "skipReason": "взрослый мультфильм: австрийский фильм по карикатурам Манфреда Дайкса с сексуальными сценами"
+  },
+  {
+    "slug": "sreda-s-goddardom",
+    "title": "Среда с Годдардом",
+    "decision": "skip",
+    "skipReason": "не знаю мультфильм: канадский авторский короткий метр"
+  },
+  {
+    "slug": "stoykiy-olovyannyy-soldatik",
+    "title": "Стойкий оловянный солдатик",
+    "decision": "skip",
+    "skipReason": "не знаю мультфильм: норвежский кукольный короткий метр 1955 года"
+  },
+  {
+    "slug": "styuart-littl-3-zov-prirody",
+    "title": "Стюарт Литтл 3: Зов природы",
+    "decision": "skip",
+    "skipReason": "не знаю мультфильм достаточно: третий «Стюарт Литтл», сцен не помню"
+  },
+  {
+    "slug": "supergnomy",
+    "title": "Супергномы",
+    "decision": "skip",
+    "skipReason": "не знаю мультфильм: немецко-австрийский мультфильм 2024 года"
+  },
+  {
+    "slug": "schastlivchik-lyuk",
+    "title": "Счастливчик Люк",
+    "decision": "skip",
+    "skipReason": "не знаю мультфильм достаточно: «Дейзи-Таун» 1971 года, сцен не помню"
+  },
+  {
+    "slug": "tayna-sokrovishch-pirata-makao",
+    "title": "Тайна сокровищ пирата Макао",
+    "decision": "skip",
+    "skipReason": "не знаю мультфильм: испанский мультфильм 2000 года"
+  },
+  {
+    "slug": "tintin-i-ozero-akul",
+    "title": "Тинтин и озеро акул",
+    "decision": "skip",
+    "skipReason": "не знаю мультфильм достаточно: полнометражный «Тинтин» 1972 года, сцен не помню"
+  },
+  {
+    "slug": "tintin-i-hram-solntsa",
+    "title": "Тинтин и храм Солнца",
+    "decision": "skip",
+    "skipReason": "не знаю мультфильм достаточно: полнометражный «Тинтин» 1969 года, сцен не помню"
+  },
+  {
+    "slug": "tobias-tots-i-ego-lev",
+    "title": "Тобиас Тоц и его лев",
+    "decision": "skip",
+    "skipReason": "не знаю мультфильм: немецкий мультфильм 1999 года"
+  },
+  {
+    "slug": "tom-soyer",
+    "title": "Том Сойер",
+    "decision": "skip",
+    "skipReason": "не знаю мультфильм: австралийская телеэкранизация студии Burbank Films, эту версию не видел"
+  },
+  {
+    "slug": "top-ket",
+    "title": "Топ Кэт",
+    "decision": "skip",
+    "skipReason": "не знаю мультфильм достаточно: латиноамериканский фильм о Топ Кэте 2011 года, сцен не помню"
+  },
+  {
+    "slug": "troll-v-tsentralnom-parke",
+    "title": "Тролль в Центральном парке",
+    "decision": "skip",
+    "skipReason": "не знаю мультфильм достаточно: помню завязку мультфильма Дона Блута, но не сцены"
+  },
+  {
+    "slug": "tryapichkin",
+    "title": "Тряпичкин",
+    "decision": "skip",
+    "skipReason": "не знаю мультфильм: аргентинский мультфильм 1975 года"
+  },
+  {
+    "slug": "tyazhelyy-metall-2000",
+    "title": "Тяжёлый металл 2000",
+    "decision": "skip",
+    "skipReason": "взрослый мультфильм: фантастика с жестокостью и обнажёнкой"
+  },
+  {
+    "slug": "uznik-kreposti-zenda",
+    "title": "Узник крепости Зенда",
+    "decision": "skip",
+    "skipReason": "не знаю мультфильм: австралийская телеэкранизация студии Burbank Films, эту версию не видел"
+  },
+  {
+    "slug": "ups-noy-uplyl",
+    "title": "Упс… Ной уплыл!",
+    "decision": "skip",
+    "skipReason": "не знаю мультфильм достаточно: помню только завязку про зверят, отставших от ковчега"
+  },
+  {
+    "slug": "uchenik-santy",
+    "title": "Ученик Санты",
+    "decision": "skip",
+    "skipReason": "не знаю мультфильм достаточно: франко-австралийский мультфильм 2010 года, сцен не помню"
+  },
+  {
+    "slug": "hitryuga-dzhek",
+    "title": "Хитрюга Джек",
+    "decision": "skip",
+    "skipReason": "не знаю мультфильм: датский мультфильм 1993 года"
+  },
+  {
+    "slug": "hryak",
+    "title": "Хряк",
+    "decision": "skip",
+    "skipReason": "не знаю мультфильм: японский короткий метр 2012 года"
+  },
+  {
+    "slug": "chernyy-tyulpan",
+    "title": "Черный Тюльпан",
+    "decision": "skip",
+    "skipReason": "не знаю мультфильм: австралийская телеэкранизация студии Burbank Films, эту версию не видел"
+  },
+  {
+    "slug": "chernaya-strela",
+    "title": "Чёрная стрела",
+    "decision": "skip",
+    "skipReason": "не знаю мультфильм: австралийская телеэкранизация студии Burbank Films, эту версию не видел"
+  },
+  {
+    "slug": "sheveli-lastami-2",
+    "title": "Шевели ластами 2",
+    "decision": "skip",
+    "skipReason": "не знаю мультфильм достаточно: бельгийский мультфильм о черепахе Сэмми, сцен не помню"
+  },
+  {
+    "slug": "sheveli-lastami",
+    "title": "Шевели ластами!",
+    "decision": "skip",
+    "skipReason": "не знаю мультфильм достаточно: бельгийский мультфильм о черепахе Сэмми, сцен не помню"
+  },
+  {
+    "slug": "shinel",
+    "title": "Шинель",
+    "decision": "skip",
+    "skipReason": "не знаю мультфильм: ирландский короткий метр 2018 года"
+  },
+  {
+    "slug": "evolyutsiya",
+    "title": "Эволюция",
+    "decision": "skip",
+    "skipReason": "не знаю мультфильм достаточно: французская комедия о первобытной обезьяне, сцен не помню"
+  },
+  {
+    "slug": "yaytsa",
+    "title": "Яйца",
+    "decision": "skip",
+    "skipReason": "не знаю мультфильм: мексиканский мультфильм 2006 года"
+  },
+  {
+    "slug": "kleo-i-kukin",
+    "title": "Клео и Кукин",
+    "decision": "skip",
+    "skipReason": "не знаю мультсериал: испанский дошкольный сериал 2018 года"
+  },
+  {
+    "slug": "legendy-ostrova-sokrovishch",
+    "title": "Легенды Острова сокровищ",
+    "decision": "skip",
+    "skipReason": "не знаю мультсериал: британский сериал 1993 года"
+  },
+  {
+    "slug": "leo-da-vinchi",
+    "title": "Лео да Винчи",
+    "decision": "skip",
+    "skipReason": "не знаю мультсериал: итальянский сериал 2019 года"
+  },
+  {
+    "slug": "liniya-otryva",
+    "title": "Линия отрыва",
+    "decision": "skip",
+    "skipReason": "взрослый мультсериал: история о депрессии и самоубийстве, с матом"
+  },
+  {
+    "slug": "metal-kard-bot",
+    "title": "Метал Кард Бот",
+    "decision": "skip",
+    "skipReason": "не знаю мультсериал: корейский сериал 2023 года"
+  },
+  {
+    "slug": "mia-i-ya",
+    "title": "Миа и я",
+    "decision": "skip",
+    "skipReason": "не знаю мультсериал достаточно: помню завязку, но не сюжеты сезонов"
+  },
+  {
+    "slug": "missiya-odisseya",
+    "title": "Миссия Одиссея",
+    "decision": "skip",
+    "skipReason": "не знаю мультсериал: французский сериал 2002 года"
+  },
+  {
+    "slug": "sekret-dzhudzhu-hraniteli-zvezdy",
+    "title": "Секрет Джуджу: хранители звезды",
+    "decision": "skip",
+    "skipReason": "не знаю мультсериал: корейский сериал 2022 года"
+  },
+  {
+    "slug": "semya-pochemuchek",
+    "title": "Семья почемучек",
+    "decision": "skip",
+    "skipReason": "не знаю мультсериал: французский сериал 1996 года"
+  },
+  {
+    "slug": "skazki-dyadyushki-bobra",
+    "title": "Сказки дядюшки Бобра",
+    "decision": "skip",
+    "skipReason": "не знаю мультсериал: франко-канадский сериал 1993 года"
+  },
+  {
+    "slug": "hitkliff",
+    "title": "Хитклифф",
+    "decision": "skip",
+    "skipReason": "данные не сходятся: «Хитклифф и кошки-кадиллаки» вышел в 1984 году, а не в 1980-м; сам сериал знаю плохо"
+  },
+  {
+    "slug": "vikingi",
+    "title": "Викинги",
+    "decision": "skip",
+    "skipReason": "взрослый сериал: исторический сериал с жестоким насилием и сексуальными сценами"
+  },
+  {
+    "slug": "gde-padali-zvezdy",
+    "title": "Где падали звезды",
+    "decision": "skip",
+    "skipReason": "не знаю сериал: чешский сериал 1996 года"
+  },
+  {
+    "slug": "chudesnoe-puteshestvie-nilsa-s-dikimi-gusyami",
+    "title": "Чудесное путешествие Нильса с дикими гусями",
+    "decision": "skip",
+    "skipReason": "не знаю фильм: знаю сказку Лагерлёф, но не телеэкранизацию 2011 года"
+  }
+]
