@@ -29,7 +29,7 @@ def main():
     by_kind = collections.Counter()
     for slug, f in facts.items():
         c = cards.get(slug)
-        rating = (f.get('officialRating') or {}).get('value', '')
+        rating = (((c or {}).get('fixes') or {}).get('officialRating') or f.get('officialRating') or {}).get('value', '')
         if not c:
             status = 'нет карточки'
         elif c['decision'] == 'skip':

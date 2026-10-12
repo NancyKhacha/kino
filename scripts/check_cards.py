@@ -17,7 +17,7 @@ BANNED = re.compile(r'чудесн|увлекательн|незабываем|�
                     r'учит дружбе и доброте|заставляет задуматься|обязательно посмотрите', re.I)
 FIELDS = ('slug', 'title', 'decision', 'source', 'ageMin', 'ageMax', 'ageReason', 'about', 'whyRecommended', 'parentsNote',
           'discussionQuestions', 'themes', 'mood', 'sensitiveTopics', 'seoDescription', 'editorNotes')
-FIXABLE = {'title', 'year', 'country', 'originalTitle', 'kind', 'minutes', 'episodeMinutes'}
+FIXABLE = {'title', 'year', 'country', 'originalTitle', 'kind', 'format', 'minutes', 'episodeMinutes', 'officialRating'}
 
 
 def check(card):
@@ -69,9 +69,16 @@ def check(card):
             problems.append(f'сложная тема не из словаря: {s}')
     if card['source'] == 'description' and not any('сверить' in n for n in card['editorNotes']):
         problems.append('source=description без пометки «сверить с фильмом» в editorNotes')
-    for k in (card.get('fixes') or {}):
+    fixes = card.get('fixes') or {}
+    for k in fixes:
         if k not in FIXABLE:
             problems.append(f'fixes: поле {k} нельзя исправлять')
+    if 'officialRating' in fixes:
+        r = fixes['officialRating']
+        if not (isinstance(r, dict) and re.fullmatch(r'(0|6|12|16|18)\+', str(r.get('value'))) and r.get('sourceUrl')):
+            problems.append('fixes.officialRating: нужно {"value": "12+", "sourceUrl": "…"}')
+    if fixes.get('format') and fixes['format'] not in ('feature', 'short', 'series', 'documentary'):
+        problems.append('fixes.format: feature, short, series или documentary')
     text = ' '.join(str(card.get(f) or '') for f in ('about', 'whyRecommended', 'parentsNote', 'ageReason'))
     if re.search(r'"[^"]+"', text):
         problems.append('прямые кавычки вместо «ёлочек»')

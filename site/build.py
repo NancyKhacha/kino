@@ -232,7 +232,7 @@ def load():
         k = KINDS[t['kind']]
         t['key'] = f['slug']          # ключ карточки, кадра, подборок и статей НЭН
         t['slug'] = slugify(t['title'])       # адрес — по названию (исправленному, если автор его поправил)
-        age_min = max(c['ageMin'], 16) if rating_age(f) >= 16 else c['ageMin']
+        age_min = max(c['ageMin'], 16) if rating_age(t) >= 16 else c['ageMin']
         age_max = c['ageMax'] if c['ageMax'] is None or c['ageMax'] >= age_min else None
         t.update(card=c, ageMin=age_min, ageMax=age_max, ageLabel=age_label(age_min, age_max),
                  themes=[x for x in c['themes'] if x in vocab['themes']], moods=[x for x in c['mood'] if x in vocab['moods']],
@@ -588,6 +588,8 @@ def render_list(path, crumbs_items, h1, title, description, intro, titles, *, fa
         head_h1 = h1 if p == 1 else f'{h1} — страница {p}'
         page_title = title if p == 1 else f'{h1} — страница {p} | НЭН'
         page_desc = description if p == 1 else f'{description.rstrip(".")}. Страница {p}.'
+        if len(page_desc) > 160:   # на дальних страницах длинному описанию хватит первой фразы
+            page_desc = f'{description.split(". ")[0].rstrip(".")}. Страница {p}.'
         body = f'''{crumbs}
 <div class="wrap page-end">
 <header class="list-head">{f'<p class="eyebrow">{e(eyebrow)}</p>' if eyebrow else ''}<h1 class="h1">{e(head_h1)}</h1>{intro_html(intro) if p == 1 else ''}</header>
