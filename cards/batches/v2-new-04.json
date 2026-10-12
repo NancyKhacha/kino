@@ -921,8 +921,8 @@
   "fixes": {
    "minutes": 122,
    "officialRating": {
-    "value": "16+",
-    "sourceUrl": "https://kino.mail.ru/cinema/movies/721120_na_grebne_volny/"
+    "value": "18+",
+    "sourceUrl": "https://www.kinoafisha.info/movies/5664927/"
    }
   },
   "ageMin": 16,
@@ -958,7 +958,8 @@
    "Источники: https://www.kinopoisk.ru/film/1990/; https://ru.wikipedia.org/wiki/На_гребне_волны_(фильм,_1991); https://www.commonsensemedia.org/movie-reviews/point-break-1991; https://n-e-n.ru/filmi-iz-nashego-detstva/",
    "Карточка по источникам — сверить с фильмом при случае",
    "Маркировка: kino.mail.ru — 16+, Кинопоиск — 18+; в fixes — kino.mail.ru. MPAA R, Common Sense Media 15+.",
-   "Длительность: kino.mail.ru — 122 минуты, Википедия — 123, Кинопоиск — 117; взяли 122. Страны на Кинопоиске — Япония, США; оставили США."
+   "Длительность: kino.mail.ru — 122 минуты, Википедия — 123, Кинопоиск — 117; взяли 122. Страны на Кинопоиске — Япония, США; оставили США.",
+   "Маркировка уточнена по Киноафише: перевыпуск в российский прокат — 18+. Возраст в каталоге по-прежнему с 16 лет."
   ]
  },
  {
