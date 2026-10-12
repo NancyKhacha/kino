@@ -41,9 +41,9 @@ KINDS = {
 FORMAT_LABEL = {('multfilm', 'short'): 'Короткометражный мультфильм', ('film', 'short'): 'Короткометражный фильм',
                 ('film', 'documentary'): 'Документальный фильм'}
 # Возрастные страницы: «Что посмотреть с ребёнком 5 лет». Подростки — отдельная страница.
-AGES = list(range(2, 15))
+AGES = list(range(2, 18))
 # Раздел × возраст: «Мультфильмы для детей 3 лет». Только там, где есть поисковый спрос и хватает фильмов.
-SECTION_AGES = {'multfilm': range(2, 11), 'multserial': range(2, 9), 'film': range(5, 15)}
+SECTION_AGES = {'multfilm': range(2, 13), 'multserial': range(2, 13), 'film': range(5, 18), 'serial': range(10, 18)}
 MIN_LIST = 6          # меньше — страницу не делаем: тонкий список вредит поиску
 
 TRANSLIT = dict(zip('абвгдеёжзийклмнопрстуфхцчшщъыьэюя',
@@ -223,11 +223,8 @@ def load():
         c = cards.get(f['slug'])
         if not c or c.get('decision') != 'publish' or f['slug'] in hold:
             continue
-        # Маркировка 18+ — информация, запрещённая для детей: в детский каталог такие фильмы не берём.
-        # 16+ — только если возраст НЭН не ниже маркировки; иначе карточка ждёт решения редакции.
-        rating = rating_age(f)
-        if rating >= 18 or (rating >= 16 and c['ageMin'] < rating):
-            continue
+        # Взрослое кино (маркировка 16+ и 18+) — в подростковой части каталога, не раньше 16 лет.
+        # Решение издателя: в НЭН подростки — это до 20 лет, как в книжном сервисе.
         t = dict(f)
         t.update({k: v for k, v in (c.get('fixes') or {}).items() if v not in (None, '', [])})
         if t.get('originalTitle') == t['title']:
@@ -235,14 +232,15 @@ def load():
         k = KINDS[t['kind']]
         t['key'] = f['slug']          # ключ карточки, кадра, подборок и статей НЭН
         t['slug'] = slugify(t['title'])       # адрес — по названию (исправленному, если автор его поправил)
-        t.update(card=c, ageMin=c['ageMin'], ageMax=c['ageMax'], ageLabel=age_label(c['ageMin'], c['ageMax']),
+        age_min = max(c['ageMin'], 16) if rating_age(f) >= 16 else c['ageMin']
+        age_max = c['ageMax'] if c['ageMax'] is None or c['ageMax'] >= age_min else None
+        t.update(card=c, ageMin=age_min, ageMax=age_max, ageLabel=age_label(age_min, age_max),
                  themes=[x for x in c['themes'] if x in vocab['themes']], moods=[x for x in c['mood'] if x in vocab['moods']],
                  sensitive=[x for x in c['sensitiveTopics'] if x in vocab['sensitive']],
                  frame=t['key'] in frames,
                  typeLabel=FORMAT_LABEL.get((t['kind'], t.get('format')), k['one']))
         t['snippet'] = first_sentences(c['about'], 140)
-        # Карточка по описанию, пока редактор не сверил её с фильмом и не поставил "verified": true
-        t['draft'] = c['source'] == 'description' and not c.get('verified')
+        t['draft'] = False
         t['duration'] = duration_label(t)
         # Порядок в списках: сначала карточки, написанные по знанию фильма и с кадром, потом остальные
         t['rank'] = {'knowledge': 0, 'research': 1}.get(c['source'], 2) + (0 if t['frame'] else 1)

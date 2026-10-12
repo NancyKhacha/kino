@@ -41943,5 +41943,388 @@
   "frameSource": null,
   "oldSlug": null,
   "origin": "new"
+ },
+ {
+  "id": "nen-mail-936809",
+  "title": "Злобные маленькие письма",
+  "originalTitle": "Wicked Little Letters",
+  "year": 2023,
+  "kind": "film",
+  "format": "feature",
+  "country": [
+   "Франция"
+  ],
+  "minutes": 102,
+  "episodeMinutes": null,
+  "seasons": null,
+  "episodes": null,
+  "officialRating": null,
+  "frameSource": "https://resizer.mail.ru/p/24af9f6f-2618-59f4-ad56-112c9ebb8fee/AQACCRnFhMlrrAqJzCMKB0JgUD2xrONW_FqA0mCwt-vZomwDM2YFlr-AHjf-xD-mGUjGeOnlRtGdyfiFj8n7Qt-iD90.webp",
+  "oldSlug": "mail-936809-zlobnie-malenkie-pisma",
+  "origin": "kino-mail",
+  "slug": "zlobnye-malenkie-pisma"
+ },
+ {
+  "id": "nen-repl-mail-953767",
+  "title": "Слабый отблеск смерти",
+  "originalTitle": "La morte scende leggera",
+  "year": 1972,
+  "kind": "film",
+  "format": "feature",
+  "country": [
+   "Италия"
+  ],
+  "minutes": 85,
+  "episodeMinutes": null,
+  "seasons": null,
+  "episodes": null,
+  "officialRating": {
+   "value": "18+",
+   "sourceUrl": "https://kino.mail.ru/cinema/movies/953767_slabii_otblesk_smerti/"
+  },
+  "frameSource": "https://resizer.mail.ru/p/537fa342-8c6a-513d-a772-b2413539c5c2/AQACt37s7cFs8f2a3_hQHFvuQDTSrUdGtqTxz7PeRJ374sx2NNPQtpuTmW3IdcBqB4fs6lWlnLlm7Zgzsq1b443rubQ.jpg",
+  "oldSlug": "la-morte-scende-leggera-1972-953767",
+  "origin": "import",
+  "slug": "slabyy-otblesk-smerti"
+ },
+ {
+  "id": "nen-wd-q1041839",
+  "title": "Уж лучше умереть",
+  "originalTitle": "Better Off Dead",
+  "year": 1985,
+  "kind": "film",
+  "format": "feature",
+  "country": [
+   "Австралия"
+  ],
+  "minutes": 93,
+  "episodeMinutes": null,
+  "seasons": null,
+  "episodes": null,
+  "officialRating": null,
+  "frameSource": "https://i0.wp.com/images.fanpop.com/images/image_uploads/Roy--Lane--and--Monique-better-off-dead-644500_633_465.jpg",
+  "oldSlug": "wikidata-q1041839",
+  "origin": "wikidata",
+  "slug": "uzh-luchshe-umeret"
+ },
+ {
+  "id": "nen-wd-q1050838",
+  "title": "Экзистенция",
+  "originalTitle": "Existenz",
+  "year": 1999,
+  "kind": "film",
+  "format": "feature",
+  "country": [
+   "Канада"
+  ],
+  "minutes": 97,
+  "episodeMinutes": null,
+  "seasons": null,
+  "episodes": null,
+  "officialRating": null,
+  "frameSource": "https://www.virtual-history.com/movie/photo/pr29/large/existenz.jpg",
+  "oldSlug": "wikidata-q1050838",
+  "origin": "wikidata",
+  "slug": "ekzistentsiya"
+ },
+ {
+  "id": "nen-wd-q108314506",
+  "title": "Банши Инишерина",
+  "originalTitle": "The Banshees of Inisherin",
+  "year": 2022,
+  "kind": "film",
+  "format": "feature",
+  "country": [
+   "Ирландия"
+  ],
+  "minutes": 114,
+  "episodeMinutes": null,
+  "seasons": null,
+  "episodes": null,
+  "officialRating": null,
+  "frameSource": "https://www.kinomuza.pl/content/uploads/2022/12/Duchy-Inisherin-1.jpg",
+  "oldSlug": "wikidata-q108314506",
+  "origin": "wikidata",
+  "slug": "banshi-inisherina"
+ },
+ {
+  "id": "nen-wd-q1132912",
+  "title": "Куб 2: Гиперкуб",
+  "originalTitle": "Cube 2: Hypercube",
+  "year": 2002,
+  "kind": "film",
+  "format": "feature",
+  "country": [
+   "Канада"
+  ],
+  "minutes": 90,
+  "episodeMinutes": null,
+  "seasons": null,
+  "episodes": null,
+  "officialRating": null,
+  "frameSource": "https://m.media-amazon.com/images/M/MV5BNTE4NzNhZjEtMmU5Zi00ZDk2LWE0MjUtZmJhOWJkYmIxMzE4XkEyXkFqcGc%40._V1_.jpg",
+  "oldSlug": "wikidata-q1132912",
+  "origin": "wikidata",
+  "slug": "kub-2-giperkub"
+ },
+ {
+  "id": "nen-wd-q12126147",
+  "title": "Псих",
+  "originalTitle": "Mental",
+  "year": 2012,
+  "kind": "film",
+  "format": "feature",
+  "country": [
+   "Австралия"
+  ],
+  "minutes": 116,
+  "episodeMinutes": null,
+  "seasons": null,
+  "episodes": null,
+  "officialRating": null,
+  "frameSource": "https://static1.1.sqspcdn.com/static/f/1377060/20332711/1347998775193/162.jpg?token=wjkv%2BxGDFr9VdPzqJ1OHuv0SWr4%3D",
+  "oldSlug": "wikidata-q12126147",
+  "origin": "wikidata",
+  "slug": "psih"
+ },
+ {
+  "id": "nen-wd-q206461",
+  "title": "Экскалибур",
+  "originalTitle": "Excalibur",
+  "year": 1981,
+  "kind": "film",
+  "format": "feature",
+  "country": [
+   "Великобритания"
+  ],
+  "minutes": 135,
+  "episodeMinutes": null,
+  "seasons": null,
+  "episodes": null,
+  "officialRating": null,
+  "frameSource": "https://cdn.maioresemelhores.com/imagens/mm-excalibur-0-cke.jpg",
+  "oldSlug": "wikidata-q206461",
+  "origin": "wikidata",
+  "slug": "ekskalibur"
+ },
+ {
+  "id": "nen-wd-q22001133",
+  "title": "Фаворитка",
+  "originalTitle": "The Favourite",
+  "year": 2018,
+  "kind": "film",
+  "format": "feature",
+  "country": [
+   "Великобритания"
+  ],
+  "minutes": 120,
+  "episodeMinutes": null,
+  "seasons": null,
+  "episodes": null,
+  "officialRating": null,
+  "frameSource": "https://www.cinemafia.ru/images/upload/LtWLPvbt_w.jpg",
+  "oldSlug": "wikidata-q22001133",
+  "origin": "wikidata",
+  "slug": "favoritka"
+ },
+ {
+  "id": "nen-wd-q3283835",
+  "title": "Хорошо в первый раз",
+  "originalTitle": "Puberty Blues",
+  "year": 1981,
+  "kind": "film",
+  "format": "feature",
+  "country": [
+   "Австралия"
+  ],
+  "minutes": 87,
+  "episodeMinutes": null,
+  "seasons": null,
+  "episodes": null,
+  "officialRating": null,
+  "frameSource": "https://image.tmdb.org/t/p/original/346M8dn6diG6fB4U1RtLBOopQwO.jpg",
+  "oldSlug": "wikidata-q3283835",
+  "origin": "wikidata",
+  "slug": "horosho-v-pervyy-raz"
+ },
+ {
+  "id": "nen-wd-q4162323",
+  "title": "Дискосвиньи",
+  "originalTitle": "Disco Pigs",
+  "year": 2001,
+  "kind": "film",
+  "format": "feature",
+  "country": [
+   "Ирландия"
+  ],
+  "minutes": 94,
+  "episodeMinutes": null,
+  "seasons": null,
+  "episodes": null,
+  "officialRating": null,
+  "frameSource": "https://pbs.twimg.com/media/F7jni9nXAAAEmwu.jpg",
+  "oldSlug": "wikidata-q4162323",
+  "origin": "wikidata",
+  "slug": "diskosvini"
+ },
+ {
+  "id": "nen-wd-q467251",
+  "title": "Удачи, Чак",
+  "originalTitle": "Good Luck Chuck",
+  "year": 2007,
+  "kind": "film",
+  "format": "feature",
+  "country": [
+   "Канада"
+  ],
+  "minutes": 96,
+  "episodeMinutes": null,
+  "seasons": null,
+  "episodes": null,
+  "officialRating": null,
+  "frameSource": "https://m.media-amazon.com/images/M/MV5BMTk3NTk5MDAxOF5BMl5BanBnXkFtZTcwNzQxNDYwNQ%40%40._V1_FMjpg_UX1000_.jpg",
+  "oldSlug": "wikidata-q467251",
+  "origin": "wikidata",
+  "slug": "udachi-chak"
+ },
+ {
+  "id": "nen-wd-q607643",
+  "title": "Гарольд и Кумар уходят в отрыв",
+  "originalTitle": "Harold & Kumar Go to White Castle",
+  "year": 2004,
+  "kind": "film",
+  "format": "feature",
+  "country": [
+   "Канада"
+  ],
+  "minutes": 87,
+  "episodeMinutes": null,
+  "seasons": null,
+  "episodes": null,
+  "officialRating": null,
+  "frameSource": "https://www.pluggedin.com/wp-content/uploads/2019/12/harold-and-kumar-go-to-white-castle-2048x1195.jpg",
+  "oldSlug": "wikidata-q607643",
+  "origin": "wikidata",
+  "slug": "garold-i-kumar-uhodyat-v-otryv"
+ },
+ {
+  "id": "nen-wd-q61358935",
+  "title": "Последствия",
+  "originalTitle": "Posledice",
+  "year": 2018,
+  "kind": "film",
+  "format": "feature",
+  "country": [
+   "Австрия"
+  ],
+  "minutes": 95,
+  "episodeMinutes": null,
+  "seasons": null,
+  "episodes": null,
+  "officialRating": null,
+  "frameSource": "https://bsf.si/media/publicity/image/32/thumbnails/32563d14a5fea35d2a3e3c98ee3f5603074a0bc6.jpeg.1920x1080_q95.jpg",
+  "oldSlug": "wikidata-q61358935",
+  "origin": "wikidata",
+  "slug": "posledstviya"
+ },
+ {
+  "id": "nen-wd-q615395",
+  "title": "Зеркальная кожа",
+  "originalTitle": "The Reflecting Skin",
+  "year": 1990,
+  "kind": "film",
+  "format": "feature",
+  "country": [
+   "Великобритания"
+  ],
+  "minutes": 95,
+  "episodeMinutes": null,
+  "seasons": null,
+  "episodes": null,
+  "officialRating": null,
+  "frameSource": "https://images.squarespace-cdn.com/content/v1/5c44089a96d455239adaa88a/1548099668745-TETYN6GYL2TLC2D3FCHI/image-asset.jpeg",
+  "oldSlug": "wikidata-q615395",
+  "origin": "wikidata",
+  "slug": "zerkalnaya-kozha"
+ },
+ {
+  "id": "nen-wd-q641723",
+  "title": "Разбогатей или умри",
+  "originalTitle": "Get Rich or Die Tryin'",
+  "year": 2005,
+  "kind": "film",
+  "format": "feature",
+  "country": [
+   "Канада"
+  ],
+  "minutes": 116,
+  "episodeMinutes": null,
+  "seasons": null,
+  "episodes": null,
+  "officialRating": null,
+  "frameSource": "https://m.media-amazon.com/images/M/MV5BMTY5MjE0MzQwOV5BMl5BanBnXkFtZTcwODY3NzkzNw%40%40._V1_FMjpg_UX1000_.jpg",
+  "oldSlug": "wikidata-q641723",
+  "origin": "wikidata",
+  "slug": "razbogatey-ili-umri"
+ },
+ {
+  "id": "nen-wd-q903819",
+  "title": "Завтрак на Плутоне",
+  "originalTitle": "Breakfast on Pluto",
+  "year": 2005,
+  "kind": "film",
+  "format": "feature",
+  "country": [
+   "Великобритания"
+  ],
+  "minutes": 129,
+  "episodeMinutes": null,
+  "seasons": null,
+  "episodes": null,
+  "officialRating": null,
+  "frameSource": "https://cs14.pikabu.ru/post_img/big/2023/03/15/10/1678902464166962897.jpg",
+  "oldSlug": "wikidata-q903819",
+  "origin": "wikidata",
+  "slug": "zavtrak-na-plutone"
+ },
+ {
+  "id": "nen-wd-q909098",
+  "title": "Бритоголовые",
+  "originalTitle": "Romper Stomper",
+  "year": 1992,
+  "kind": "film",
+  "format": "feature",
+  "country": [
+   "Австралия"
+  ],
+  "minutes": 89,
+  "episodeMinutes": null,
+  "seasons": null,
+  "episodes": null,
+  "officialRating": null,
+  "frameSource": "https://m.media-amazon.com/images/M/MV5BNWU2NDRiOTMtYjc5ZC00MmQxLWE3ODMtOGNiMjNmYmJkMmYyXkEyXkFqcGc%40._V1_.jpg",
+  "oldSlug": "wikidata-q909098",
+  "origin": "wikidata",
+  "slug": "britogolovye"
+ },
+ {
+  "id": "nen-wd-q962987",
+  "title": "Квадрофения",
+  "originalTitle": "Quadrophenia",
+  "year": 1979,
+  "kind": "film",
+  "format": "feature",
+  "country": [
+   "Великобритания"
+  ],
+  "minutes": 119,
+  "episodeMinutes": null,
+  "seasons": null,
+  "episodes": null,
+  "officialRating": null,
+  "frameSource": "https://images.mubicdn.net/images/film/4995/cache-10897-1481130496/image-w1280.jpg",
+  "oldSlug": "wikidata-q962987",
+  "origin": "wikidata",
+  "slug": "kvadrofeniya"
  }
 ]
