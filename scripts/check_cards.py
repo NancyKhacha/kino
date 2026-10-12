@@ -28,8 +28,10 @@ def check(card):
     problems = [f'нет поля {f}' for f in FIELDS if f not in card]
     if problems:
         return problems
-    if card['source'] not in ('knowledge', 'description'):
-        problems.append('source должно быть knowledge или description')
+    if card['source'] not in ('knowledge', 'research', 'description'):
+        problems.append('source должно быть knowledge, research или description')
+    if card['source'] == 'research' and not any(n.startswith('Источники:') for n in card['editorNotes']):
+        problems.append('source=research без строки «Источники: …» в editorNotes')
     ranges = RANGES_DESCRIPTION if card['source'] == 'description' else RANGES
     for field, (lo, hi) in ranges.items():
         n = len(card.get(field) or '')

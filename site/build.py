@@ -245,7 +245,7 @@ def load():
         t['draft'] = c['source'] == 'description' and not c.get('verified')
         t['duration'] = duration_label(t)
         # Порядок в списках: сначала карточки, написанные по знанию фильма и с кадром, потом остальные
-        t['rank'] = (0 if c['source'] == 'knowledge' else 2) + (0 if t['frame'] else 1)
+        t['rank'] = {'knowledge': 0, 'research': 1}.get(c['source'], 2) + (0 if t['frame'] else 1)
         titles.append(t)
     # Адреса уникальны: одинаковые названия различаем годом
     seen = {}
