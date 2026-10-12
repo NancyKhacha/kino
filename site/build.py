@@ -43,7 +43,7 @@ FORMAT_LABEL = {('multfilm', 'short'): 'Короткометражный мул�
 # Возрастные страницы: «Что посмотреть с ребёнком 5 лет». Подростки — отдельная страница.
 AGES = list(range(2, 18))
 # Раздел × возраст: «Мультфильмы для детей 3 лет». Только там, где есть поисковый спрос и хватает фильмов.
-SECTION_AGES = {'multfilm': range(2, 13), 'multserial': range(2, 13), 'film': range(5, 18), 'serial': range(10, 18)}
+SECTION_AGES = {'multfilm': range(2, 18), 'multserial': range(2, 18), 'film': range(5, 18), 'serial': range(8, 18)}
 MIN_LIST = 6          # меньше — страницу не делаем: тонкий список вредит поиску
 
 TRANSLIT = dict(zip('абвгдеёжзийклмнопрстуфхцчшщъыьэюя',
@@ -121,6 +121,13 @@ def age_word(n):
 def age_gen(n):
     """«для детей 1 года», «для детей 5 лет», «с 3 лет»."""
     return f'{n} года' if n % 10 == 1 and n % 100 != 11 else f'{n} лет'
+
+
+def kid(n, case='gen'):
+    """С 13 лет говорим «подросток»: «для подростков 14 лет», «с подростком 14 лет»."""
+    if case == 'gen':
+        return 'детей' if n < 13 else 'подростков'
+    return 'ребёнком' if n < 13 else 'подростком'
 
 
 def age_slug(n):
@@ -690,11 +697,11 @@ def main():
             if len(sub) < MIN_LIST:
                 continue
             sub.sort(key=lambda t: (t['rank'], abs(t['ageMin'] - n), t['title']))
-            h1 = f'{cfg["plural"]} для детей {age_gen(n)}'
+            h1 = f'{cfg["plural"]} для {kid(n)} {age_gen(n)}'
             age_land = landings.get(f'age:{n}', {})
             intro = [p for p in [landings.get(f'section-age:{cfg["section"]}:{n}', {}).get('intro'), age_land.get('short')] if p]
             render_list(f'/{cfg["section"]}/{age_slug(n)}/', [('Главная', '/'), (cfg['plural'], f'/{cfg["section"]}/'), (h1, None)], h1,
-                        f'{h1}: что посмотреть с ребёнком | НЭН',
+                        f'{h1}: что посмотреть с {kid(n, "ins")} | НЭН',
                         f'{h1} — {count_word(len(sub), kind)}, которые советует редакция НЭН. Для каждого: почему подходит и о чём поговорить после просмотра.',
                         intro, sub, active=f'/{cfg["section"]}/')
 
@@ -706,13 +713,13 @@ def main():
             continue
         sub.sort(key=lambda t: (t['rank'], abs(t['ageMin'] - n), t['title']))
         land = landings.get(f'age:{n}', {})
-        h1 = f'Что посмотреть с ребёнком {age_gen(n)}'
+        h1 = f'Что посмотреть с {kid(n, "ins")} {age_gen(n)}'
         kinds = [(KINDS[k]['plural'], f'/{KINDS[k]["section"]}/{age_slug(n)}/', sum(fits_age(t, n) for t in by_kind[k]))
                  for k in KINDS if n in SECTION_AGES.get(k, []) and sum(fits_age(t, n) for t in by_kind[k]) >= MIN_LIST]
         top = f'<section class="section">{chips_links(kinds)}</section>' if kinds else ''
         render_list(f'/vozrast/{age_slug(n)}/', [('Главная', '/'), ('По возрасту', '/vozrast/'), (h1, None)], h1,
                     land.get('title') or f'{h1}: мультфильмы и фильмы | НЭН',
-                    land.get('description') or f'Мультфильмы, фильмы и сериалы для детей {age_gen(n)}: {count_word(len(sub))} с советами редакции НЭН.',
+                    land.get('description') or f'Мультфильмы, фильмы и сериалы для {kid(n)} {age_gen(n)}: {count_word(len(sub))} с советами редакции НЭН.',
                     land.get('intro'), sub, faq=[tuple(x) for x in land.get('faq', [])], extra_top=top, active='/vozrast/')
         age_tiles.append((n, len(sub)))
     teen = sorted([t for t in titles if t['ageMin'] >= 12], key=lambda t: (t['rank'], t['title']))
