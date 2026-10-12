@@ -1,6 +1,9 @@
 ﻿slug,название,год,раздел,статус,источник текста,возраст НЭН,маркировка,исправлено,причина,пометки,партия,откуда в старой базе
+briolin,Бриолин,1978,film,ждёт решения редакции,knowledge,с 14,,country: ['США'],курение и алкоголь подростков показаны привлекательно; российскую маркировку сверить; решение за редакцией,"Страна исправлена: «Бриолин» — американский фильм (Paramount), Великобритания в записи — ошибка. Маркировки в записи нет. Если российская маркировка 16+, поднять ageMin до 16. Российский закон: подростки курят и пьют, и это показано привлекательно, — учесть при решении о возрасте.",batch-049,wikidata
 vodnye-malchiki,Водные мальчики,2001,film,ждёт решения редакции,research,с 12,,title: Пловцы,один из главных героев влюблён в одноклассника — юридический риск для российского издания; решение за редакцией,"Источники: https://en.wikipedia.org/wiki/Waterboys_(film); https://www.kinopoisk.ru/film/61818/; https://mail.lovehkfilm.com/panasia/waterboys.htm Карточка по источникам — сверить с фильмом. Русское название на Кинопоиске — «Пловцы»; «Водные мальчики» — дословный перевод, в источниках не встречается. Один из пятерых главных героев (Саотомэ) — гей, влюблён в одноклассника. Решение о публикации — за редакцией с учётом российского законодательства. Подробного разбора по сценам (лексика, обнажение) в источниках нет — проверить при просмотре.",research-01,editorial
 luchshe-neyt-chem-kogda-libo,"Лучше Нейт, чем когда-либо",2022,film,ждёт решения редакции,research,9–14,,,фильм прямо называют ЛГБТ-позитивным — юридический риск для российского издания; решение за редакцией,"Источники: https://en.wikipedia.org/wiki/Better_Nate_Than_Ever_(film); https://www.commonsensemedia.org/movie-reviews/better-nate-than-ever; https://www.kinopoisk.ru/film/4478184/ Карточка по источникам — сверить с фильмом. Русское название подтверждается Кинопоиском. Фильм Disney+, в России официально не выходил. Нейта дразнят за то, что он «не такой, как мальчики»; Variety называл фильм ЛГБТ-позитивным, хотя ориентация героя прямо не обсуждается (романтическая линия — только влюблённость Либби в Нейта). Решение о публикации — за редакцией с учётом российского законодательства.",research-01,editorial
+piknik-u-visyachey-skaly,Пикник у Висячей скалы,1975,film,ждёт решения редакции,knowledge,с 14,,,намёки на самоубийство и однополую влюблённость — решение за редакцией,"Российский закон: в фильме два самоубийства (показаны намёком), а привязанность Сары к Миранде часто трактуют как влюблённость — прямо в фильме это не названо. Решение о публикации и возрасте — за редакцией. Маркировки в записи нет. Если российская маркировка 16+, поднять ageMin до 16.",batch-049,wikidata
+romeo-dzhuletta,Ромео + Джульетта,1996,film,ждёт решения редакции,knowledge,с 14,,country: ['США']; originalTitle: William Shakespeare's Romeo + Juliet,"самоубийство показано прямо, наркотики; российскую маркировку сверить (вероятно 16+); решение за редакцией","Страна исправлена: американский фильм 20th Century Fox, снятый в Мексике, — отсюда ошибка в записи. Полное оригинальное название — «William Shakespeare's Romeo + Juliet». Российский закон: двойное самоубийство в финале показано прямо, Ромео на вечеринке принимает наркотик, Меркуцио выступает на балу в женском платье и парике (драг-номер). Решение о публикации и возрасте — за редакцией. Маркировки в записи нет. Если российская маркировка 16+, поднять ageMin до 16.",batch-049,wikidata
 sing-strit,Синг Стрит,2016,film,ждёт решения редакции,knowledge,с 13,,,в России маркировка 18+ (по данным журнала НЭН); детям до 18 лет такой фильм советовать нельзя,,batch-005,editorial
 bazz-layter,Базз Лайтер,2022,multfilm,ждёт решения редакции,knowledge,7–12,,,однополая пара и поцелуй — юридический риск для российского издания (закон о пропаганде ЛГБТ среди несовершеннолетних); решение за редакцией,"В российский прокат фильм не вышел: в 2022 году Disney приостановил релизы в России. Название оставлено из входа. У Алиши в фильме жена, есть короткий поцелуй. Редакции стоит учесть это при решении о публикации.",batch-007,editorial
 zavorozhennye,Заворожённые,2024,multfilm,ждёт решения редакции,research,7–12,,,"оракулы Солнца и Луны — двое мужчин, которые живут вместе; их читают как пару — юридический риск для российского издания; решение за редакцией","Источники: https://en.wikipedia.org/wiki/Spellbound_(2024_film); https://www.commonsensemedia.org/movie-reviews/spellbound-0 Карточка по источникам — сверить с фильмом. Оракулы Солнца и Луны — два мужских персонажа, которые живут вместе; Common Sense Media пишет, что их можно прочитать как пару. Проверить с учётом российского закона. Фильм Netflix, в российском прокате не выходил; русское название — по русской Википедии.",research-02,editorial
@@ -14,46 +17,15 @@ dom-sovy,Дом совы,2020,multserial,ждёт решения редакци�
 kipo-i-era-chudesnyh-zverey,Кипо и эра чудесных зверей,2020,multserial,ждёт решения редакции,knowledge,9–14,,,один из главных героев — открытый гей — юридический риск для российского издания; решение за редакцией,Один из главных героев (Бенсон) — открытый гей. Решение о публикации — за редакцией с учётом российского законодательства.,batch-015,editorial
 mini-mappety,Мини-Маппеты,2018,multserial,ждёт решения редакции,knowledge,3–7,0+,country: ['США'],"во 2-м сезоне есть серия, где Гонзо идёт на бал в платье принцессы — возможный риск по российскому закону; решение за редакцией","Сериал Disney Junior производства США; Китай, Южная Корея и Япония во входе, видимо, относятся к подрядчикам анимации или к прокату — оставили только США. Проверить русское название: на телеканале Disney сериал мог выходить под другим названием. Во втором сезоне есть серия «Gonzo-rella» (2019): Гонзо хочет пойти на королевский бал в платье принцессы, и друзья его поддерживают. Серию широко обсуждали как историю о гендерном самовыражении. С учётом российского закона о запрете пропаганды смены пола и ЛГБТ среди несовершеннолетних редакции стоит учесть это при решении о публикации.",batch-032,kino-mail
 prints-drakon,Принц-дракон,2018,multserial,ждёт решения редакции,knowledge,9–15,,,однополые пары среди героев второго плана — юридический риск для российского издания; решение за редакцией,"Среди героев второго плана есть однополые пары (приёмные отцы Райлы, мамы королевы Ании). Решение о публикации — за редакцией с учётом российского законодательства.",batch-015,editorial
+udivitelnyy-mir-gambola,Удивительный мир Гамбола,2011,multserial,ждёт решения редакции,knowledge,8–13,6+,,"в отдельных сериях есть темы, рискованные по российскому закону — проверить серии; решение за редакцией","Однополых пар среди постоянных героев не помню. Сериал большой — шесть сезонов, — в нём много пародий и гэгов, в том числе с переодеванием; отдельные серии стоит проверить с учётом российского закона.",batch-049,import
+ulitsa-sezam,Улица Сезам,1969,serial,ждёт решения редакции,knowledge,3–6,0+,,"по сообщениям прессы, в выпуске 2021 года показана семья с двумя папами — юридический риск для российского издания; решение за редакцией","Это американская передача 1969 года, а не российская адаптация 1996 года с Зелибобой и Бусинкой — при подборе ссылок не перепутать. Есть ли у американских выпусков официальная русская озвучка, проверить; если нет, в карточку стоит добавить, что смотреть придётся на английском. Длительность серии в записи — 43 минуты: до 2016 года выпуски шли около часа, потом около получаса. Проверить поле. Российский закон: по сообщениям прессы, в выпуске 2021 года «День семьи» показана семья с двумя папами; кроме того, сценарист Марк Зальцман в 2018 году говорил, что писал Берта и Эрни как пару (Sesame Workshop называет их друзьями). Решение о публикации — за редакцией.",batch-049,import
 zvezdnye-voyny-brakovannaya-partiya,Звездные войны: Бракованная партия,2021,multserial,"ждёт решения редакции: маркировка 16+, возраст НЭН ниже",knowledge,12–16,16+,episodeMinutes: 30,,"Длительность: серии обычно идут 25–35 минут (первая — около 70), а не 45. Советуем раньше маркировки 16+ — объяснено в ageReason. Однополых пар и других тем, которые могут попасть под ограничения закона, не помню; насилие только боевое, без натурализма.",batch-028,kino-mail
-bagdadskiy-vor,Багдадский вор,1940,film,нет карточки,,,,,,,,wikidata
 belyy-bim-chernoe-uho,Белый Бим Чёрное ухо,0,film,нет карточки,,,,,,,,new
-beskonechnaya-istoriya-2,Бесконечная история 2,1990,film,нет карточки,,,,,,,,wikidata
 bethoven,Бетховен,0,film,нет карточки,,,,,,,,new
-briolin,Бриолин,1978,film,нет карточки,,,,,,,,wikidata
 beyb-chetveronogiy-malysh-film,Бэйб: Четвероногий малыш,0,film,нет карточки,,,,,,,,new
-vozvrashchenie-v-stranu-oz,Возвращение в страну Оз,1985,film,нет карточки,,,,,,,,wikidata
-vokrug-sveta-za-80-dney-2004,Вокруг света за 80 дней,2004,film,нет карточки,,,,,,,,wikidata
-vorishki,Воришки,1997,film,нет карточки,,,,,,,,wikidata
-vpered-indiya,"Вперед, Индия!",2007,film,нет карточки,,,,,,,,wikidata
-gandi,Ганди,1982,film,нет карточки,,,,,,,,wikidata
-gupi-poet-bagha-tantsuet,"Гупи поёт, Багха танцует",1968,film,нет карточки,,,,,,,,wikidata
-dvuhsotletniy-chelovek,Двухсотлетний человек,1999,film,нет карточки,,,,,,,,wikidata
 devochka-i-krokodil,Девочка и крокодил,0,film,нет карточки,,,,,,,,new
-deti-zheleznoy-dorogi,Дети железной дороги,1970,film,нет карточки,,,,,,,,wikidata
-eshche-odna-istoriya-o-zolushke,Ещё одна история о Золушке,2008,film,нет карточки,,,,,,,,wikidata
-zolotoe-puteshestvie-sindbada,Золотое путешествие Синдбада,1973,film,нет карточки,,,,,,,,wikidata
-imperiya-solntsa,Империя солнца,1987,film,нет карточки,,,,,,,,wikidata
-kes,Кес,1969,film,нет карточки,,,,,,,,wikidata
-labirint,Лабиринт,1986,film,нет карточки,,,,,,,,wikidata
-malchik-s-palchik-1958,Мальчик-с-пальчик,1958,film,нет карточки,,,,,,,,wikidata
 moy-domashniy-dinozavr,Мой домашний динозавр,0,film,нет карточки,,,,,,,,new
-molodoy-sherlok-holms,Молодой Шерлок Холмс,1985,film,нет карточки,,,,,,,,wikidata
-myshinaya-ohota,Мышиная охота,1997,film,нет карточки,,,,,,,,wikidata
-nayti-forrestera,Найти Форрестера,2000,film,нет карточки,,,,,,,,wikidata
-nu-chto-priehali,"Ну что, приехали?",2005,film,нет карточки,,,,,,,,wikidata
-pesn-dorogi,Песнь дороги,1955,film,нет карточки,,,,,,,,wikidata
-piknik-u-visyachey-skaly,Пикник у Висячей скалы,1975,film,нет карточки,,,,,,,,wikidata
-povelitel-muh,Повелитель мух,1963,film,нет карточки,,,,,,,,wikidata
-progulki-s-peshchernym-chelovekom,Прогулки с пещерным человеком,2003,film,нет карточки,,,,,,,,wikidata
-rozhdennaya-svobodnoy,Рождённая свободной,1966,film,нет карточки,,,,,,,,wikidata
-romeo-dzhuletta,Ромео + Джульетта,1996,film,нет карточки,,,,,,,,wikidata
-santa-klaus,Санта Клаус,1985,film,нет карточки,,,,,,,,wikidata
-sindbad-i-glaz-tigra,Синдбад и глаз тигра,1977,film,нет карточки,,,,,,,,wikidata
-skrudzh,Скрудж,1951,film,нет карточки,,,,,,,,wikidata
-smurfiki,Смурфики,2011,film,нет карточки,,,,,,,,wikidata
 timur-i-ego-komanda,Тимур и его команда,0,film,нет карточки,,,,,,,,new
-tri-zhizni-tomaziny,Три жизни Томазины,1963,film,нет карточки,,,,,,,,wikidata
-usadba-kendlshu,Усадьба Кэндлшу,1977,film,нет карточки,,,,,,,,wikidata
 uchitelyu-s-lyubovyu,"Учителю, с любовью",1967,film,нет карточки,,,,,,,,wikidata
 hatiko-samyy-vernyy-drug,Хатико: Самый верный друг,0,film,нет карточки,,,,,,,,new
 chuk-i-gek,Чук и Гек,0,film,нет карточки,,,,,,,,new
@@ -126,14 +98,7 @@ ostorozhno-obezyanki,"Осторожно, обезьянки!",0,multserial,не
 robomashina-poli,Робомашина Поли,2011,multserial,нет карточки,,,,,,,,wikidata
 svinka-peppa,Свинка Пеппа,0,multserial,нет карточки,,,,,,,,new
 skazochnyy-patrul,Сказочный патруль,0,multserial,нет карточки,,,,,,,,new
-super-krylya-dzhett-i-ego-druzya,Супер крылья. Джетт и его друзья,2014,multserial,нет карточки,,,0+,,,,,import
-udivitelnaya-vi,Удивительная Ви,2017,multserial,нет карточки,,,6+,,,,,import
-udivitelnyy-mir-gambola,Удивительный мир Гамбола,2011,multserial,нет карточки,,,6+,,,,,import
-umelets-menni,Умелец Мэнни,2006,multserial,нет карточки,,,0+,,,,,import
-cherepashki-mutanty-nindzya,Черепашки мутанты ниндзя,1987,multserial,нет карточки,,,6+,,,,,import
 shchenyachiy-patrul,Щенячий патруль,0,multserial,нет карточки,,,,,,,,new
-eralash,Ералаш,1974,serial,нет карточки,,,,,,,,import
-ulitsa-sezam,Улица Сезам,1969,serial,нет карточки,,,0+,,,,,import
 coda-rebenok-gluhih-roditeley,CODA: Ребёнок глухих родителей,2021,film,опубликовано,knowledge,с 14,,,,,batch-001,editorial
 tigry-na-ldu,«Тигры» на льду,1971,film,опубликовано,description,6–11,6+,,,Текст по описанию — сверить с фильмом.,batch-015,kino-mail
 avgust-rash,Август Раш,2007,film,опубликовано,knowledge,10–15,,,,,batch-001,editorial
@@ -149,6 +114,7 @@ alisa-v-strane-chudes-2010,Алиса в Стране чудес,2010,film,оп�
 alpamys-idet-v-shkolu,Алпамыс идет в школу,1976,film,опубликовано,description,5–9,,,,Текст по описанию — сверить с фильмом.,batch-015,kino-mail
 alesha-ptitsyn-vyrabatyvaet-harakter,Алёша Птицын вырабатывает характер,1953,film,опубликовано,research,6–10,,minutes: 73,,"Источники: https://ru.wikipedia.org/wiki/Алёша_Птицын_вырабатывает_характер; https://www.kinopoisk.ru/film/43470/; https://www.ivi.tv/watch/15098; https://en.wikipedia.org/wiki/Alyosha_Ptitsyn_Grows_Up Карточка по источникам — сверить с фильмом. Длительность — 73 минуты по Википедии и Кинопоиску (на ivi — 68), во входе было 72. Финал в источниках описан коротко, поэтому в тексте его нет.",research-01,editorial
 asif-vasif-agasif,"Асиф, Васиф, Агасиф",1983,film,опубликовано,description,5–10,,,,Текст по описанию — сверить с фильмом.,batch-015,kino-mail
+bagdadskiy-vor,Багдадский вор,1940,film,опубликовано,knowledge,с 7,,,,,batch-049,wikidata
 baykalskie-kanikuly,Байкальские каникулы,2015,film,опубликовано,description,7–12,6+,,,Текст по описанию — сверить с фильмом.,batch-015,kino-mail
 balbesy,Балбесы,1985,film,опубликовано,knowledge,с 10,,,,,batch-001,editorial
 barabanshchik-kotoryy-nichego-ne-boyalsya,"Барабанщик, который ничего не боялся",1988,film,опубликовано,description,5–9,,,,"Текст по описанию — сверить с фильмом. Какая именно сказка братьев Гримм легла в основу, в описании не сказано.",batch-015,kino-mail
@@ -160,6 +126,7 @@ bell-i-sebastyan-druzya-navek,Белль и Себастьян: Друзья н�
 bell-i-sebastyan-priklyucheniya-prodolzhayutsya,Белль и Себастьян: Приключения продолжаются,2015,film,опубликовано,knowledge,8–13,,,,,batch-001,editorial
 belyy-vozdushnyy-shar,Белый воздушный шар,1995,film,опубликовано,knowledge,с 7,,,,В российском прокате фильм не шёл; в русских источниках чаще встречается название «Белый шар» — сверить.,batch-001,editorial
 beskonechnaya-istoriya,Бесконечная история,1984,film,опубликовано,knowledge,8–13,,,,,batch-001,editorial
+beskonechnaya-istoriya-2,Бесконечная история 2,1990,film,опубликовано,knowledge,7–12,,"title: Бесконечная история 2: Новая глава; country: ['Германия', 'США']",,Русское прокатное название — «Бесконечная история 2: Новая глава». Страна дополнена: фильм снят совместно Германией и США (прокат Warner Bros.).,batch-049,wikidata
 billi-elliot,Билли Эллиот,2000,film,опубликовано,knowledge,с 12,,,,,batch-001,editorial
 blagodarya-vinn-diksi,Благодаря Винн-Дикси,2005,film,опубликовано,knowledge,7–12,,,,,batch-001,editorial
 bluzhdayushchie-ogonki,Блуждающие огоньки,1979,film,опубликовано,description,6–10,,,,"Текст по описанию — сверить с фильмом. Название совпадает с поздней сказкой Андерсена «Блуждающие огоньки в городе» — сверить, вошла ли она в фильм; 134 минуты — возможно, двухсерийный телефильм.",batch-015,kino-mail
@@ -187,15 +154,20 @@ veseloe-snovidenie-ili-smeh-skvoz-slezy,"Веселое сновидение, и
 vitus,Витус,2006,film,опубликовано,knowledge,с 10,,,,,batch-001,editorial
 vnimanie-cherepaha,"Внимание, черепаха!",1970,film,опубликовано,knowledge,6–10,,,,,batch-001,editorial
 vozvrashchenie-dzhafara,Возвращение Джафара,1994,film,опубликовано,knowledge,6–10,,kind: multfilm,,"Раздел: это рисованный мультфильм Disney, а не игровой фильм, — kind исправлен на multfilm. Однополых пар нет.",batch-035,import
+vozvrashchenie-v-stranu-oz,Возвращение в страну Оз,1985,film,опубликовано,knowledge,9–14,,"country: ['США', 'Великобритания']",,"Страна исправлена: фильм студии Disney (США), снятый в Англии.",batch-049,wikidata
+vokrug-sveta-za-80-dney-2004,Вокруг света за 80 дней,2004,film,опубликовано,knowledge,8–13,,"country: ['США', 'Германия']",,"Страна дополнена: американский фильм Walden Media и Disney, снятый при участии немецких компаний. Не дубль мультсериала vokrug-sveta-za-80-dney-1972.",batch-049,wikidata
 volshebnaya-kniga-murada,Волшебная книга Мурада,1976,film,опубликовано,description,5–9,,,,Текст по описанию — сверить с фильмом. Студию сверить: в базе только «СССР».,batch-016,kino-mail
 volshebnaya-lampa-aladdina,Волшебная лампа Аладдина,1966,film,опубликовано,knowledge,6–11,12+,,,Маркировка 12+ на kino.mail.ru выглядит завышенной для этой сказки — сверить с Кинопоиском и прокатным удостоверением.,batch-016,kino-mail
 volshebnik-strany-oz,Волшебник страны Оз,1939,film,опубликовано,knowledge,с 6,,,,,batch-001,editorial
 volshebnyy-golos-dzhelsomino,Волшебный голос Джельсомино,1977,film,опубликовано,knowledge,6–10,0+,,,,batch-016,kino-mail
+vorishki,Воришки,1997,film,опубликовано,knowledge,6–11,,"title: Добывайки; country: ['Великобритания', 'США']",,"Русское название — «Добывайки», как и у повести Мэри Нортон в русском переводе; «Воришки» — название из старой базы. Страна дополнена: британско-американский фильм (Working Title, PolyGram).",batch-049,wikidata
 vot-i-leto-proshlo,Вот и лето прошло…,1972,film,опубликовано,description,5–8,0+,,,Текст по описанию — сверить с фильмом.,batch-016,kino-mail
+vpered-indiya,"Вперед, Индия!",2007,film,опубликовано,knowledge,с 12,,,,,batch-049,wikidata
 vsadnik-bez-golovy,Всадник без головы,1973,film,опубликовано,knowledge,с 11,,"country: ['СССР', 'Куба']",,"Фильм снят совместно «Мосфильмом» и Кубинским институтом киноискусства (ICAIC), съёмки шли на Кубе, — добавлена страна Куба.",batch-001,editorial
 vspominaya-titanov,Вспоминая Титанов,2000,film,опубликовано,knowledge,с 11,,,,,batch-001,editorial
 vysshiy-pilotazh,Высший пилотаж,2005,film,опубликовано,knowledge,8–13,,,,,batch-001,editorial
 gavana-ya-lyublyu-tebya,"Гавана, я люблю тебя",2005,film,опубликовано,knowledge,9–14,,title: Вива Куба,,"Оригинальное название — Viva Cuba; «Гавана, я люблю тебя» — не его название, к тому же действие уходит из Гаваны через весь остров. В российском прокате фильм не шёл, в русских источниках он называется «Вива Куба» — сверить.",batch-001,editorial
+gandi,Ганди,1982,film,опубликовано,knowledge,с 12,,"country: ['Великобритания', 'Индия']; minutes: 191",,"Страна дополнена: британско-индийский фильм, снятый при участии индийской государственной кинокорпорации. Длительность исправлена: полная версия идёт 191 минуту.",batch-049,wikidata
 garri-potter-i-dary-smerti-chast-i,Гарри Поттер и Дары Смерти: Часть I,2010,film,опубликовано,knowledge,с 12,,,,,batch-001,editorial
 garri-potter-i-kubok-ognya,Гарри Поттер и Кубок огня,2005,film,опубликовано,knowledge,с 11,,,,,batch-001,editorial
 garri-potter-i-orden-feniksa,Гарри Поттер и Орден Феникса,2007,film,опубликовано,knowledge,с 11,,,,,batch-002,editorial
@@ -208,12 +180,15 @@ gde-dom-druga,Где дом друга?,1987,film,опубликовано,knowl
 gornoe-chudo,Горное чудо,2017,film,опубликовано,knowledge,9–14,,,,Оригинальное название — «Amelie rennt» («Амели бежит»). Русское прокатное название «Горное чудо» не подтверждено — сверить.,batch-002,editorial
 gostya-iz-budushchego,Гостья из будущего,1985,film,опубликовано,knowledge,7–12,,,,"Пятисерийный телефильм: пять серий примерно по часу, всего 317 минут. Раздел film оставлен по аналогии с «Приключениями Электроника» (batch-005); если редакция относит такие фильмы к сериалам — перевести в serial. По повести Кира Булычёва «Сто лет тому вперёд».",batch-002,editorial
 gum-gam,Гум-Гам,1985,film,опубликовано,description,5–9,0+,,,"Текст по описанию — сверить с фильмом. Вероятно, по повести Евгения Велтистова «Гум-Гам» — сверить; если так, добавить тему «по книге».",batch-016,kino-mail
+gupi-poet-bagha-tantsuet,"Гупи поёт, Багха танцует",1968,film,опубликовано,knowledge,7–12,,,,"Русского прокатного названия не знаю — оставлено название из записи, это дословный перевод бенгальского «Goopy Gyne Bagha Byne». Есть ли русская озвучка, проверить: от этого зависит, с какого возраста фильм смотреть удобно.",batch-049,wikidata
 dangal,Дангал,2016,film,опубликовано,knowledge,10–16,,,,,batch-002,editorial
 dafna-i-velma,Дафна и Велма,2018,film,опубликовано,research,8–13,,,,"Источники: https://en.wikipedia.org/wiki/Daphne_%26_Velma; https://www.commonsensemedia.org/movie-reviews/daphne-velma; https://www.kinopoisk.ru/film/1107968/ Карточка по источникам — сверить с фильмом. Фильм вышел сразу на DVD и в цифре (Warner Bros.), в кинопрокат не попал. Длительность в источниках 72–75 минут, оставили 72.",research-01,editorial
 dva-steklyshka-udivitelnyy-teleskop,Два стеклышка. Удивительный телескоп,2009,film,опубликовано,description,7–12,,originalTitle: Two Small Pieces of Glass: The Amazing Telescope,,"Текст по описанию — сверить с фильмом. Оригинальное название полностью — Two Small Pieces of Glass: The Amazing Telescope. Это полнокупольное шоу для планетариев, а не фильм для обычного экрана, — решить, нужен ли он в каталоге.",batch-016,kino-mail
+dvuhsotletniy-chelovek,Двухсотлетний человек,1999,film,опубликовано,knowledge,с 10,,country: ['США'],,"Страна исправлена: американский фильм (Touchstone, Columbia), Канада в записи — ошибка.",batch-049,wikidata
 devochka-nina-i-pohititeli-pianino,Девочка Нина и похитители пианино,2023,film,опубликовано,description,6–10,6+,,,Текст по описанию — сверить с фильмом.,batch-016,kino-mail
 detektivnoe-agentstvo-hrum-ili-skazochnyy-perepoloh,"Детективное агентство «ХРУМ», или Сказочный переполох",2024,film,опубликовано,description,5–9,0+,,,Текст по описанию — сверить с фильмом.,batch-016,kino-mail
 detektivnoe-agentstvo-hrum-chto-sluchilos-v-lukomore,Детективное агентство «ХРУМ». Что случилось в Лукоморье?,2025,film,опубликовано,description,6–9,6+,,,Текст по описанию — сверить с фильмом.,batch-016,kino-mail
+deti-zheleznoy-dorogi,Дети железной дороги,1970,film,опубликовано,knowledge,с 6,,,,,batch-049,wikidata
 deti-kapitana-granta,Дети капитана Гранта,1936,film,опубликовано,knowledge,7–12,,,,,batch-002,editorial
 deti-nebes,Дети небес,1997,film,опубликовано,knowledge,с 7,,,,,batch-002,editorial
 deti-shpionov,Дети шпионов,2001,film,опубликовано,knowledge,6–11,,,,,batch-002,editorial
@@ -230,6 +205,7 @@ doroga-domoy-neveroyatnoe-puteshestvie,Дорога домой: Невероят
 doroga-doroga-domoy,"Дорога, дорога домой",2013,film,опубликовано,knowledge,с 13,,,,,batch-002,editorial
 dorogaya-ya-umenshil-detey,"Дорогая, я уменьшил детей",1989,film,опубликовано,knowledge,6–12,,,,,batch-002,editorial
 drakon-pita,Дракон Пита,1977,film,опубликовано,knowledge,6–10,,,,,batch-002,editorial
+eshche-odna-istoriya-o-zolushke,Ещё одна история о Золушке,2008,film,опубликовано,knowledge,9–14,,country: ['США'],,"Страна исправлена: американский фильм Warner Premiere, Канада в записи — скорее всего, место съёмок.",batch-049,wikidata
 zheleznaya-volya,Железная воля,1994,film,опубликовано,knowledge,9–14,,,,,batch-002,editorial
 z-o-m-b-i,З-О-М-Б-И,2018,film,опубликовано,knowledge,7–12,,,,,batch-002,editorial
 z-o-m-b-i-2,З-О-М-Б-И 2,2020,film,опубликовано,knowledge,7–12,,,,,batch-002,editorial
@@ -240,12 +216,14 @@ zacharovannaya,Зачарованная,2007,film,опубликовано,knowl
 zvuki-muzyki,Звуки музыки,1965,film,опубликовано,knowledge,с 7,,,,,batch-002,editorial
 zvezdochki-na-zemle,Звёздочки на земле,2007,film,опубликовано,knowledge,8–14,,,,,batch-002,editorial
 zdravstvuy-ralf,"Здравствуй, Ральф!",1975,film,опубликовано,description,6–9,6+,,,Текст по описанию — сверить с фильмом.,batch-016,kino-mail
+zolotoe-puteshestvie-sindbada,Золотое путешествие Синдбада,1973,film,опубликовано,knowledge,8–13,,,,,batch-049,wikidata
 zolotoy-kompas,Золотой компас,2007,film,опубликовано,knowledge,10–15,,,,,batch-002,editorial
 zolushka-1947,Золушка,1947,film,опубликовано,knowledge,с 5,,,,,batch-002,editorial
 zum-akademiya-supergeroev,Зум: Академия супергероев,2006,film,опубликовано,knowledge,7–11,,,,,batch-002,editorial
 ivan-semenov-bolshoy-pohod,Иван Семенов: Большой поход,2023,film,опубликовано,description,6–10,6+,,,"Текст по описанию — сверить с фильмом. Продолжение фильма «Иван Семёнов: Школьный переполох» (slug ivan-semenov-shkolnyy-perepoloh, в этой же партии). Если фильм, как и первый, снят по повести Льва Давыдычева об Иване Семёнове, добавить тему «по книге» — сверить.",batch-017,kino-mail
 ivan-semenov-shkolnyy-perepoloh,Иван Семенов: Школьный переполох,2022,film,опубликовано,description,6–10,6+,,,"Текст по описанию — сверить с фильмом. Страница фильма на kino.mail.ru называется «Многотрудная жизнь Ивана Семёнова»: похоже, фильм снят по повести Льва Давыдычева — сверить прокатное название и, если так, добавить тему «по книге».",batch-017,kino-mail
 izlom-vremeni,Излом времени,2018,film,опубликовано,knowledge,9–14,,,,,batch-002,editorial
+imperiya-solntsa,Империя солнца,1987,film,опубликовано,knowledge,с 12,,country: ['США'],,"Страна исправлена: американский фильм (Amblin, Warner Bros.), Великобритания в записи — ошибка. Маркировки в записи нет. Если российская маркировка 16+, поднять ageMin до 16.",batch-049,wikidata
 inoplanetyanin,Инопланетянин,1982,film,опубликовано,knowledge,с 7,,,,,batch-002,editorial
 issledovateli,Исследователи,1985,film,опубликовано,knowledge,9–14,,,,,batch-003,editorial
 istoriya-delfina,История дельфина,2011,film,опубликовано,knowledge,6–12,,country: ['США'],,"Страна в старой базе — Канада и США; по нашим данным, фильм американский (Alcon Entertainment, съёмки во Флориде) — сверить.",batch-003,editorial
@@ -257,6 +235,7 @@ kamila,Камила,1980,film,опубликовано,description,6–9,,,,Те
 kanikuly-petrova-i-vasechkina-obyknovennye-i-neveroyatnye,"Каникулы Петрова и Васечкина, обыкновенные и невероятные",1984,film,опубликовано,research,7–12,,,,"Источники: https://ru.wikipedia.org/wiki/Каникулы_Петрова_и_Васечкина,_обыкновенные_и_невероятные; https://www.kinopoisk.ru/film/81480/ Карточка по источникам — сверить с фильмом. Длительность: на Кинопоиске 2 ч 15 мин, в Википедии 132 минуты; оставили 135. Маркировка на Кинопоиске 0+.",research-01,editorial
 kanikuly-malenkogo-nikolya,Каникулы маленького Николя,2014,film,опубликовано,knowledge,6–11,,,,,batch-003,editorial
 karate-patsan,Каратэ-пацан,2010,film,опубликовано,knowledge,10–15,,,,,batch-003,editorial
+kes,Кес,1969,film,опубликовано,knowledge,с 12,,,,"Снят по роману Барри Хайнса «A Kestrel for a Knave» (1968); есть ли русский перевод, не знаю. Маркировки в записи нет. Если российская маркировка 16+, поднять ageMin до 16.",batch-049,wikidata
 kit-kittredzh-zagadka-amerikanskoy-devochki,Кит Киттредж: Загадка американской девочки,2008,film,опубликовано,knowledge,8–13,,,,,batch-003,editorial
 klad,Клад,2003,film,опубликовано,knowledge,10–15,,,,,batch-003,editorial
 klassnyy-kees-v-letnem-lagere,Классный Кеес в летнем лагере,2013,film,опубликовано,description,7–11,,,,"Текст по описанию — сверить с фильмом. Похоже, это продолжение фильма Mees Kees (2012) по книгам Мирьям Олденхаве — сверить и, если так, добавить тему «по книге». Неясно, выходил ли фильм в России; русское название оставлено из входа (kino.mail.ru) — сверить.",batch-017,kino-mail
@@ -277,6 +256,7 @@ krolik-piter,Кролик Питер,2018,film,опубликовано,knowledg
 kruiz-po-dzhunglyam,Круиз по джунглям,2021,film,опубликовано,knowledge,10–15,,,,,batch-003,editorial
 krutye-virazhi,Крутые виражи,1993,film,опубликовано,knowledge,с 8,,,,,batch-003,editorial
 kruella,Круэлла,2021,film,опубликовано,knowledge,с 12,,,,,batch-003,editorial
+labirint,Лабиринт,1986,film,опубликовано,knowledge,8–14,,"country: ['Великобритания', 'США']",,"Страна дополнена: британско-американский фильм (Henson Associates, Lucasfilm, TriStar).",batch-049,wikidata
 lars-lol,Ларс — ЛОЛ,2023,film,опубликовано,research,9–13,,,,"Источники: https://nordische-filmtage.de/en/festival/movie/view/1272; https://trustnordisk.com/movie/lars-is-lol; https://www.nfi.no/en/films-and-series/lars-er-lol; https://www.kinopoisk.ru/film/6398477/ Карточка по источникам — сверить с фильмом. На Кинопоиске русского названия нет, в российский прокат фильм, по-видимому, не выходил; название оставили из входа. Источники описывают завязку и поворот с предательством, но не финал — в тексте его нет.",research-01,editorial
 lemoni-sniket-33-neschastya,Лемони Сникет: 33 несчастья,2004,film,опубликовано,knowledge,9–14,,,,,batch-003,editorial
 lessi,Лесси,2005,film,опубликовано,knowledge,7–12,,,,,batch-003,editorial
@@ -291,6 +271,7 @@ malenkiy-manhetten,Маленький Манхэттен,2005,film,опубли�
 malenkiy-les,Маленький лес,2018,film,опубликовано,knowledge,с 13,,,,,batch-003,editorial
 malysh-i-karlson-kotoryy-zhivet-na-kryshe,"Малыш и Карлсон, который живет на крыше",1971,film,опубликовано,description,5–10,0+,,,Текст по описанию — сверить с фильмом.,batch-017,kino-mail
 malchik-kotoryy-obuzdal-veter,"Мальчик, который обуздал ветер",2019,film,опубликовано,knowledge,с 11,,,,,batch-003,editorial
+malchik-s-palchik-1958,Мальчик-с-пальчик,1958,film,опубликовано,knowledge,5–9,,"country: ['Великобритания', 'США']",,Страна дополнена: фильм снят в Англии для американской студии MGM. Не дубль записи malchik-s-palchik-1985.,batch-049,wikidata
 marya-iskusnitsa,Марья-искусница,1960,film,опубликовано,knowledge,5–10,6+,,,"Год: во входе 1960, во многих справочниках фильм датирован 1959 годом (выпуск), 1960 — вероятно, год проката. Сверить и при необходимости исправить.",batch-036,import
 matilda,Матильда,1996,film,опубликовано,knowledge,7–12,,,,,batch-003,editorial
 matilda-myuzikl,Матильда: Мюзикл,2022,film,опубликовано,knowledge,7–12,,,,,batch-004,editorial
@@ -303,6 +284,7 @@ moguchie-utyata,Могучие утята,1992,film,опубликовано,kno
 moy-dikiy-drug,Мой дикий друг,2024,film,опубликовано,description,6–11,6+,,,Текст по описанию — сверить с фильмом.,batch-017,kino-mail
 moy-drug-kot-i-pushkin,"Мой друг, кот и Пушкин",2025,film,опубликовано,description,8–13,6+,,,Текст по описанию — сверить с фильмом.,batch-017,kino-mail
 moy-pes-skip,Мой пёс Скип,2000,film,опубликовано,knowledge,9–14,,,,,batch-004,editorial
+molodoy-sherlok-holms,Молодой Шерлок Холмс,1985,film,опубликовано,knowledge,10–15,,"country: ['США', 'Великобритания']",,"Страна дополнена: американо-британский фильм (Amblin, Paramount), снятый в Англии.",batch-049,wikidata
 morozko,Морозко,1965,film,опубликовано,knowledge,с 5,0+,year: 1964,,"Год: фильм снят в 1964 году, так он датирован в Кинопоиске, Википедии и IMDb; 1965-й — год выхода в прокат. Исправили на 1964 — сверить.",batch-017,kino-mail
 moskva-kassiopeya,Москва — Кассиопея,1973,film,опубликовано,knowledge,8–13,,,,,batch-004,editorial
 most-v-terabitiyu,Мост в Терабитию,2007,film,опубликовано,knowledge,10–14,,,,,batch-004,editorial
@@ -314,11 +296,13 @@ my-vas-lyubim,Мы вас любим,1962,film,опубликовано,descript
 my-kupili-zoopark,Мы купили зоопарк,2011,film,опубликовано,knowledge,с 9,,,,Возраст снижен с 10 до 9 лет.,batch-004,editorial
 my-s-dedushkoy,Мы с дедушкой,2014,film,опубликовано,description,6–11,6+,,,Текст по описанию — сверить с фильмом.,batch-018,kino-mail
 my-luchshie,Мы — лучшие!,2013,film,опубликовано,knowledge,12–17,,,,,batch-004,editorial
+myshinaya-ohota,Мышиная охота,1997,film,опубликовано,knowledge,8–13,,country: ['США'],,"Страна исправлена: американский фильм DreamWorks, Великобритания в записи — ошибка.",batch-049,wikidata
 meri-poppins,Мэри Поппинс,1964,film,опубликовано,knowledge,с 6,,,,,batch-004,editorial
 meri-poppins-do-svidaniya,"Мэри Поппинс, до свидания",1983,film,опубликовано,knowledge,с 7,,,,"Двухсерийный телефильм, раздел film оставлен. Возраст повышен с 6 до 7 лет: фильм длинный и рассчитан скорее на взрослых.",batch-004,editorial
 na-zlatom-kryltse-sideli,На златом крыльце сидели,1986,film,опубликовано,description,7–12,12+,,,"Текст по описанию — сверить с фильмом. Маркировка 12+ не вяжется с описанием — проверить, нет ли в фильме сцен, которые её объясняют.",batch-018,kino-mail
 nabaldashnik-i-metla,Набалдашник и метла,1971,film,опубликовано,knowledge,6–11,,country: ['США'],,"Страна: фильм снят студией Walt Disney Productions в США; Великобритания — место действия, а не страна производства.",batch-004,editorial
 nazad-v-budushchee,Назад в будущее,1985,film,опубликовано,knowledge,с 10,,,,"В старой базе противоречие: возраст 10+, а в обосновании «с двенадцати лет». Оставили 10.",batch-004,editorial
+nayti-forrestera,Найти Форрестера,2000,film,опубликовано,knowledge,с 12,,country: ['США'],,"Страна исправлена: американский фильм (Columbia), Великобритания в записи — ошибка.",batch-049,wikidata
 nasledniki-2,Наследники 2,2017,film,опубликовано,knowledge,8–14,,,,,batch-004,editorial
 nasledniki-3,Наследники 3,2019,film,опубликовано,knowledge,8–14,,,,,batch-004,editorial
 ne-hochu-byt-vzroslym,Не хочу быть взрослым,1982,film,опубликовано,description,5–10,0+,,,Текст по описанию — сверить с фильмом. В старой базе возраст — с 3 лет; для фильма на 77 минут поставили с 5.,batch-018,kino-mail
@@ -332,6 +316,7 @@ novye-priklyucheniya-muravya-i-blohi,Новые приключения Мура�
 noch-v-muzee,Ночь в музее,2006,film,опубликовано,knowledge,6–12,,,,"Возраст снижен с 7 до 6 лет, верхняя граница — с 17 до 12.",batch-004,editorial
 noch-v-muzee-2,Ночь в музее 2,2009,film,опубликовано,knowledge,6–12,,,,"Возраст снижен с 7 до 6 лет, верхняя граница — с 17 до 12.",batch-004,editorial
 noch-v-muzee-sekret-grobnitsy,Ночь в музее: Секрет гробницы,2014,film,опубликовано,knowledge,7–12,,,,"Возраст снижен с 8 до 7 лет, верхняя граница — с 17 до 12.",batch-004,editorial
+nu-chto-priehali,"Ну что, приехали?",2005,film,опубликовано,knowledge,7–12,,country: ['США'],,"Страна исправлена: американский фильм (Revolution Studios, Columbia), Канада в записи — скорее всего, место съёмок.",batch-049,wikidata
 oblaka,Облака,2020,film,опубликовано,knowledge,с 12,,,,,batch-004,editorial
 odin-doma,Один дома,1990,film,опубликовано,knowledge,с 7,,,,Возраст снижен с 8 до 7 лет.,batch-004,editorial
 okeany,Океаны,2009,film,опубликовано,knowledge,с 7,,,,Хронометраж 84 мин — у международной версии; французская оригинальная версия длиннее.,batch-004,editorial
@@ -350,10 +335,12 @@ pautina-sharlotty,Паутина Шарлотты,2006,film,опубликова
 pervoklassnik,Первоклассник,2010,film,опубликовано,knowledge,с 13,,,,,batch-005,editorial
 pervoklassnitsa,Первоклассница,1948,film,опубликовано,research,6–9,,,,Источники: https://ru.wikipedia.org/wiki/Первоклассница_(фильм); https://www.kinopoisk.ru/film/42938/ Карточка по источникам — сверить с фильмом.,research-01,editorial
 persi-dzhekson-i-pohititel-molniy,Перси Джексон и похититель молний,2010,film,опубликовано,knowledge,10–14,,,,,batch-005,editorial
+pesn-dorogi,Песнь дороги,1955,film,опубликовано,knowledge,с 12,,,,Снят по роману Бибхутибхушана Бандьопадхьяя. Две следующие части трилогии — «Непокорённый» и «Мир Апу» — есть в каталоге отдельными записями.,batch-049,wikidata
 pingviny-mistera-poppera,Пингвины мистера Поппера,2011,film,опубликовано,knowledge,6–11,,,,,batch-005,editorial
 pit-i-ego-drakon,Пит и его дракон,2016,film,опубликовано,knowledge,7–12,,,,,batch-005,editorial
 pif-paf-oy-oy-oy,Пиф-паф ой-ой-ой,1968,film,опубликовано,knowledge,с 6,,,,"Это английский мюзикл «Chitty Chitty Bang Bang» (1968); в российских базах он идёт как «Пиф-паф ой-ой-ой». Не путать с советским фильмом «Пиф-паф, ой-ой-ой!» (1980).",batch-005,editorial
 pobeg-iz-dvortsa,Побег из дворца,1975,film,опубликовано,description,7–12,,,,Текст по описанию — сверить с фильмом. В старой базе возраст — с 3 лет; из-за темы побега из дома поставили с 7.,batch-018,kino-mail
+povelitel-muh,Повелитель мух,1963,film,опубликовано,knowledge,с 14,,,,"Маркировки в записи нет, в старой базе возраст — с 16 лет. Если российская маркировка 16+, поднять ageMin до 16.",batch-049,wikidata
 podzornaya-truba,Подзорная труба,1973,film,опубликовано,description,7–11,12+,,,"Текст по описанию — сверить с фильмом. Маркировка 12+ не вяжется с описанием короткой комедии по Драгунскому — сверить. Уточнить, по каким рассказам снят фильм.",batch-018,kino-mail
 pozhar-vo-fligele-ili-podvig-vo-ldah,"Пожар во флигеле, или Подвиг во льдах",1973,film,опубликовано,description,7–11,12+,,,Текст по описанию — сверить с фильмом. Маркировка 12+ не вяжется с описанием — сверить.,batch-018,kino-mail
 pole-chudes,Поле чудес,2025,film,опубликовано,description,6–12,6+,,,Текст по описанию — сверить с фильмом.,batch-018,kino-mail
@@ -374,6 +361,7 @@ printsessa-nevesta,Принцесса-невеста,1987,film,опублико�
 pro-krasnuyu-shapochku,Про Красную Шапочку,1977,film,опубликовано,research,6–11,,,,"Источники: https://ru.wikipedia.org/wiki/Про_Красную_Шапочку; https://www.kinopoisk.ru/film/77302/; https://n-e-n.ru/kakie-filmy-dolzhny-smotret-shkolniki-po-mneniu-ministerstva-prosveshenia/ Карточка по источникам — сверить с фильмом. Длительность: на Кинопоиске 135 минут, в Википедии 132; оставили 135.",research-01,editorial
 pro-lelyu-i-minku,Про Лелю и Миньку,2020,film,опубликовано,description,6–10,6+,,,Текст по описанию — сверить с фильмом.,batch-018,kino-mail
 programma-zashchity-printsess,Программа защиты принцесс,2009,film,опубликовано,knowledge,8–13,,,,,batch-005,editorial
+progulki-s-peshchernym-chelovekom,Прогулки с пещерным человеком,2003,film,опубликовано,knowledge,10–15,,kind: serial; minutes: None; episodeMinutes: 30,,"Раздел и длительность исправлены: это не короткометражка, а мини-сериал BBC 2003 года из четырёх серий примерно по 30 минут. Формат в записи (short) через fixes не исправить — поправить вручную на series.",batch-049,wikidata
 prodavets-snov,Продавец снов,1990,film,опубликовано,description,6–10,,,,Текст по описанию — сверить с фильмом. В старой базе возраст — с 3 лет; для фильма на 72 минуты поставили с 6.,batch-018,kino-mail
 puteshestvie-2-tainstvennyy-ostrov,Путешествие 2: Таинственный остров,2012,film,опубликовано,knowledge,7–12,,,,,batch-005,editorial
 puteshestvie-k-tsentru-zemli,Путешествие к центру Земли,2008,film,опубликовано,knowledge,7–12,,,,,batch-005,editorial
@@ -381,6 +369,7 @@ pyatnadtsatiletniy-kapitan,Пятнадцатилетний капитан,1945,
 ramona-i-bizus,Рамона и Бизус,2010,film,опубликовано,knowledge,6–11,,,,,batch-005,editorial
 respublika-shkid,Республика ШКИД,1966,film,опубликовано,knowledge,с 10,,,,,batch-005,editorial
 rozhdestvenskie-hroniki,Рождественские хроники,2018,film,опубликовано,knowledge,7–12,,,,,batch-005,editorial
+rozhdennaya-svobodnoy,Рождённая свободной,1966,film,опубликовано,knowledge,с 6,,,,,batch-049,wikidata
 rok-v-letnem-lagere,Рок в летнем лагере,2008,film,опубликовано,knowledge,8–13,,,,,batch-005,editorial
 rok-v-letnem-lagere-2-otchetnyy-kontsert,Рок в летнем лагере 2: Отчётный концерт,2010,film,опубликовано,knowledge,8–13,,,,,batch-005,editorial
 rokka-menyaet-mir,Рокка меняет мир,2019,film,опубликовано,research,8–12,,,,"Источники: https://de.wikipedia.org/wiki/Rocca_verändert_die_Welt; https://www.fbw-filmbewertung.com/film/rocca_veraendert_die_welt; https://www.kinopoisk.ru/film/1178535/ Карточка по источникам — сверить с фильмом. Где Рокка выросла, источники расходятся: Кинопоиск пишет, что на МКС, FBW — что на Байконуре; в тексте не уточняем. Финал источники описывают только в общих чертах.",research-01,editorial
@@ -388,13 +377,17 @@ ruka-na-million,Рука на миллион,2014,film,опубликовано,
 ruki-vverh,Руки вверх!,1981,film,опубликовано,description,6–10,6+,,,Текст по описанию — сверить с фильмом.,batch-018,kino-mail
 ruslan-i-lyudmila,Руслан и Людмила,1972,film,опубликовано,knowledge,7–12,12+,,,,batch-019,kino-mail
 saymon-birch,Саймон Бирч,1998,film,опубликовано,knowledge,с 11,,,,,batch-005,editorial
+santa-klaus,Санта Клаус,1985,film,опубликовано,knowledge,6–10,,"country: ['Великобритания', 'США']",,Страна дополнена: британско-американский фильм продюсеров Александра и Ильи Салкиндов.,batch-049,wikidata
 sekret-noel,Секрет Ноэль,2019,film,опубликовано,knowledge,6–11,,,,"Фильм вышел на Disney+ и в российский прокат не выходил; официального русского названия, по-видимому, нет. Название «Секрет Ноэль» оставлено из входа — сверить с русскоязычными базами.",batch-005,editorial
 sekretnaya-superzvezda,Секретная суперзвезда,2017,film,опубликовано,knowledge,с 12,,,,,batch-005,editorial
 semeynyy-obmen,Семейный обмен,2023,film,опубликовано,research,10–15,,,,Источники: https://en.wikipedia.org/wiki/Family_Switch; https://www.commonsensemedia.org/movie-reviews/family-switch; https://www.kinopoisk.ru/film/5138526/ Карточка по источникам — сверить с фильмом. Фильм Netflix; русское название подтверждается Кинопоиском.,research-01,editorial
 semitsvetik,Семицветик,2014,film,опубликовано,description,8–12,0+,,,"Текст по описанию — сверить с фильмом. В старой базе возраст с 3 лет — для фильма о первой любви шестиклассника это слишком рано, поставили с 8.",batch-019,kino-mail
+sindbad-i-glaz-tigra,Синдбад и глаз тигра,1977,film,опубликовано,knowledge,8–13,,,,,batch-049,wikidata
 skazka-o-poteryannom-vremeni,Сказка о потерянном времени,1964,film,опубликовано,knowledge,6–10,0+,,,,batch-019,kino-mail
 skazka-pro-vlyublennogo-malyara,Сказка про влюбленного маляра,1987,film,опубликовано,description,6–12,0+,,,"Текст по описанию — сверить с фильмом. Вероятно, это фильм Надежды Кошеверовой («Ленфильм») — сверить и, если так, упомянуть режиссёра.",batch-019,kino-mail
+skrudzh,Скрудж,1951,film,опубликовано,knowledge,с 8,,,,В США фильм выходил под названием «A Christmas Carol».,batch-049,wikidata
 skrytye-figury,Скрытые фигуры,2016,film,опубликовано,knowledge,с 10,,,,,batch-005,editorial
+smurfiki,Смурфики,2011,film,опубликовано,knowledge,5–9,,"country: ['США', 'Бельгия']",,"Страна дополнена: американский фильм Sony Pictures Animation, снятый вместе с бельгийскими правообладателями Пейо.",batch-049,wikidata
 snezhnaya-pyaterka,Снежная пятерка,2008,film,опубликовано,description,5–9,,,,"Текст по описанию — сверить с фильмом. Это вторая часть диснеевского цикла о щенках (первая — Air Buddies, 2006) — сверить русское название первой части, чтобы связать карточки.",batch-019,kino-mail
 sobachya-zhizn,Собачья жизнь,2017,film,опубликовано,knowledge,9–14,,,,,batch-005,editorial
 sokrovishche-natsii,Сокровище нации,2004,film,опубликовано,knowledge,с 10,,,,,batch-005,editorial
@@ -416,9 +409,11 @@ tam-na-nevedomyh-dorozhkah,"Там, на неведомых дорожках..."
 tantsuyushchaya-koroleva,Танцующая королева,2023,film,опубликовано,research,10–14,,,,"Источники: https://en.wikipedia.org/wiki/Dancing_Queen_(2023_film); https://www.inreviewonline.com/dancing-queen/; https://www.kinopoisk.ru/film/5123777/ Карточка по источникам — сверить с фильмом. Маркировка на Кинопоиске 12+, советуем с 10 — объяснено в ageReason. Финал источники не описывают.",research-01,editorial
 tvoi-moi-i-nashi,"Твои, мои и наши",2005,film,опубликовано,knowledge,7–12,,,,,batch-006,editorial
 timmi-feyl-dopushcheny-oshibki,Тимми Фейл: Допущены ошибки,2020,film,опубликовано,knowledge,8–12,,,,"Фильм вышел только на Disney+, российского проката не было — русское название оставлено из входа, сверить с Кинопоиском.",batch-006,editorial
+tri-zhizni-tomaziny,Три жизни Томазины,1963,film,опубликовано,knowledge,7–12,,"country: ['США', 'Великобритания']",,"Страна дополнена: фильм студии Disney (США), снятый в Великобритании.",batch-049,wikidata
 udivitelnye-priklyucheniya-denisa-korableva,Удивительные приключения Дениса Кораблева,1979,film,опубликовано,description,6–10,0+,,,"Текст по описанию — сверить с фильмом. Вероятно, это двухсерийный фильм «Беларусьфильма» (режиссёр Игорь Добролюбов) — сверить и, если так, посоветовать смотреть по сериям.",batch-019,kino-mail
 ura-kanikuly,Ура! Каникулы!,2016,film,опубликовано,description,7–12,6+,,,Текст по описанию — сверить с фильмом.,batch-019,kino-mail
 uroki-frantsuzskogo,Уроки французского,1978,film,опубликовано,knowledge,с 10,0+,,,"В старой базе возраст с 3 лет — для этой истории слишком рано, поставили с 10.",batch-019,kino-mail
+usadba-kendlshu,Усадьба Кэндлшу,1977,film,опубликовано,knowledge,8–13,,"country: ['США', 'Великобритания']",,"Страна дополнена: фильм студии Disney (США), снятый в Англии.",batch-049,wikidata
 utro-bez-otmetok,Утро без отметок,1983,film,опубликовано,description,5–9,6+,,,Текст по описанию — сверить с фильмом.,batch-019,kino-mail
 fantazery,Фантазеры,1965,film,опубликовано,description,5–9,0+,,,"Текст по описанию — сверить с фильмом. В старом описании источник назван повестью; у Носова «Фантазёры» — рассказ. Возможно, в фильм вошли и другие его рассказы — сверить.",batch-019,kino-mail
 finist-yasnyy-sokol,Финист — Ясный сокол,1975,film,опубликовано,description,5–10,0+,,,"Текст по описанию — сверить с фильмом. Вероятно, режиссёр — Геннадий Васильев (Киностудия имени Горького) — сверить.",batch-019,kino-mail
@@ -1187,12 +1182,17 @@ pryguny,Прыгуны,2020,multserial,опубликовано,description,3–
 smeshariki,Смешарики,2003,multserial,опубликовано,knowledge,4–12,,,,,batch-015,editorial
 sofiya-prekrasnaya,София Прекрасная,2013,multserial,опубликовано,knowledge,4–8,0+,episodeMinutes: 23,,"Оригинал — Sofia the First (Disney Junior), сериал выходил в 2013–2018 годах, ему предшествовал пилотный фильм 2012 года Once Upon a Princess. Русское название «София Прекрасная» — так сериал шёл на Disney Channel в России; год, страна и раздел во входе верные. Длительность серии исправлена с 30 на 23 минуты: 30 минут во входе — это телеслот с рекламой, обычная серия идёт около 22–23 минут. Спецвыпуски длиннее — час и больше. Однополых пар и других тем, которые могут быть ограничены для детей по российскому закону, в сериале не помню.",batch-038,import
 spetsialnyy-agent-oso,Специальный агент Осо,2009,multserial,опубликовано,knowledge,3–6,0+,,,"Оригинал — Special Agent Oso, сериал Playhouse Disney (позже Disney Junior), выходил с 2009 года. Русское название — как на Disney Channel в России. Во входе страны — США и Великобритания. Сериал делала Disney Television Animation; участие британской стороны подтвердить не могу, страны не менял — сверить по титрам. Как в русском дубляже называется говорящий прибор Осо (в оригинале Paw Pilot), не помню, поэтому в тексте его имени нет.",batch-038,import
+super-krylya-dzhett-i-ego-druzya,Супер крылья. Джетт и его друзья,2014,multserial,опубликовано,knowledge,3–6,0+,,,,batch-049,import
 tri-kota,Три кота,2015,multserial,опубликовано,knowledge,2–6,,,,,batch-015,editorial
+udivitelnaya-vi,Удивительная Ви,2017,multserial,опубликовано,knowledge,4–8,6+,title: Вампирина,,"Русское название — «Вампирина»: под ним сериал шёл на Disney Channel в России. «Удивительная Ви» — название из старой базы. Однополых пар и других тем, которые могут быть ограничены для детей по российскому закону, в сериале не помню.",batch-049,import
+umelets-menni,Умелец Мэнни,2006,multserial,опубликовано,knowledge,3–6,0+,title: Мастер Мэнни,,"Русское название — «Мастер Мэнни»: так сериал назывался на Disney Channel в России. «Умелец Мэнни» — название из старой базы; описание там тоже неверное: Мэнни взрослый мастер, а не мальчик.",batch-049,import
 utinye-istorii,Утиные истории,2017,multserial,опубликовано,knowledge,6–12,,,,,batch-015,editorial
 fiksiki,Фиксики,2010,multserial,опубликовано,knowledge,4–8,,,,,pilot,editorial
 hilda,Хильда,2018,multserial,опубликовано,knowledge,6–12,,,,,batch-015,editorial
+cherepashki-mutanty-nindzya,Черепашки мутанты ниндзя,1987,multserial,опубликовано,knowledge,6–12,6+,title: Черепашки-ниндзя; country: ['США'],,"Русское название — «Черепашки-ниндзя»: под ним сериал 1987 года показывали в России. Страна исправлена: это американский сериал (Murakami-Wolf-Swenson, позже Fred Wolf Films); восемь стран в записи — ошибка импорта.",batch-049,import
 vsyakaya-vsyachina,Всякая всячина,1994,serial,опубликовано,description,8–13,0+,,,"Текст по описанию — сверить с фильмом. Это скетч-шоу канала Nickelodeon (выходило с 1994 года, позже перезапускалось); при сверке проверить юмор отдельных скетчей.",batch-035,kino-mail
 dzhigglbiz,Джигглбиз,2009,serial,опубликовано,description,5–8,6+,,,"Текст по описанию — сверить с фильмом. Это шоу канала CBeebies для дошкольников, все роли в нём играет Джастин Флетчер; маркировка 6+ кажется завышенной, после сверки возраст можно снизить.",batch-035,kino-mail
+eralash,Ералаш,1974,serial,опубликовано,knowledge,6–12,,,,,batch-049,import
 kasper-i-emma-luchshie-druzya,Каспер и Эмма: Лучшие друзья,2013,serial,опубликовано,description,3–6,0+,,,"Текст по описанию — сверить с фильмом. Судя по героям, это экранизация норвежских книг Тура Оге Брингсвярда о Карстене и Петре; при сверке проверить, игровой это сериал или анимационный (раздел serial).",batch-035,kino-mail
 komnata-13,Комната 13,2012,serial,опубликовано,description,9–14,6+,,,"Текст по описанию — сверить с фильмом. Оригинальное название — «Hotel 13»; сверить, под каким названием сериал шёл в России. По описанию нельзя проверить романтические линии и есть ли в сериале однополые пары — проверить при сверке.",batch-035,kino-mail
 korabl-k-prichalu,Корабль к причалу,1993,serial,опубликовано,description,7–12,0+,,,Текст по описанию — сверить с фильмом.,batch-035,kino-mail
