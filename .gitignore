@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+work/
+# Собранный сайт: пересобирается командой python3 site/build.py
+docs/
+dist/
+_site/
