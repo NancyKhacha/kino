@@ -12,7 +12,9 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 
 def words(s):
-    return re.findall(r'[а-яёa-z0-9]+', (s or '').lower().replace('ё', 'е'))
+    # Названия в «ёлочках» — не заимствование: «по пьесе „Горя бояться — счастья не видать“».
+    s = re.sub(r'«[^«»]*»', ' ', s or '')
+    return re.findall(r'[а-яёa-z0-9]+', s.lower().replace('ё', 'е'))
 
 
 def shingles(ws, n=5):
