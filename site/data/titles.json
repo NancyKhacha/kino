@@ -21899,10 +21899,7 @@
   "episodeMinutes": 11,
   "seasons": null,
   "episodes": null,
-  "officialRating": {
-   "value": "16+",
-   "sourceUrl": "https://kino.mail.ru/series_927386_kosmicheskie_tsiplyata_v_kosmose/"
-  },
+  "officialRating": null,
   "frameSource": "https://resizer.mail.ru/p/fdd6bcb4-7e94-5079-a29f-5c6ebe292aa1/AAACTmkIxyV0F-TD3FaehwbyUNkomQYkY-VVW891WGOvnrU2gkZgydSNUE4IPHeo47GIThD5gXQcXbbE2-ewtXeHlCI.webp",
   "oldSlug": "mail-927386-kosmicheskie-tsiplyata-v-kosmose",
   "origin": "kino-mail",
