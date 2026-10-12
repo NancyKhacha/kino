@@ -55603,26 +55603,6 @@
   "origin": "new"
  },
  {
-  "id": "new-strana-sasha-2022",
-  "slug": "strana-sasha-2022",
-  "title": "Страна Саша",
-  "originalTitle": null,
-  "year": 2022,
-  "kind": "film",
-  "format": "feature",
-  "country": [
-   "Россия"
-  ],
-  "minutes": null,
-  "episodeMinutes": null,
-  "seasons": null,
-  "episodes": null,
-  "officialRating": null,
-  "frameSource": null,
-  "oldSlug": null,
-  "origin": "new"
- },
- {
   "id": "new-sudba-cheloveka",
   "slug": "sudba-cheloveka",
   "title": "Судьба человека",
