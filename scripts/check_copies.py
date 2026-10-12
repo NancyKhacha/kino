@@ -26,7 +26,7 @@ def main(old_path):
     for path in sorted(glob.glob(os.path.join(ROOT, 'cards', 'batches', '*.json'))):
         for c in json.load(open(path, encoding='utf-8')):
             f = facts.get(c['slug'])
-            if c.get('decision') != 'publish' or not f or f['origin'] == 'editorial':
+            if c.get('decision') != 'publish' or not f or f['origin'] in ('editorial', 'new'):
                 continue
             src = shingles(words(old[f['oldSlug']]['shortDescription']))
             common = src & shingles(words(c['about'] + ' ' + c['whyRecommended']))
