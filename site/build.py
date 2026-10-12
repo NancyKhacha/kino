@@ -233,8 +233,7 @@ def load():
             t['originalTitle'] = None
         k = KINDS[t['kind']]
         t['key'] = f['slug']          # ключ карточки, кадра, подборок и статей НЭН
-        if slugify(t['title']) != slugify(f['title']):
-            t['slug'] = slugify(t['title'])   # название исправлено — адрес по новому названию
+        t['slug'] = slugify(t['title'])       # адрес — по названию (исправленному, если автор его поправил)
         t.update(card=c, ageMin=c['ageMin'], ageMax=c['ageMax'], ageLabel=age_label(c['ageMin'], c['ageMax']),
                  themes=[x for x in c['themes'] if x in vocab['themes']], moods=[x for x in c['mood'] if x in vocab['moods']],
                  sensitive=[x for x in c['sensitiveTopics'] if x in vocab['sensitive']],
@@ -247,15 +246,21 @@ def load():
         # Порядок в списках: сначала карточки, написанные по знанию фильма и с кадром, потом остальные
         t['rank'] = {'knowledge': 0, 'research': 1}.get(c['source'], 2) + (0 if t['frame'] else 1)
         titles.append(t)
-    # Адреса уникальны: одинаковые названия различаем годом
+    # Адреса уникальны внутри раздела: одинаковые названия различаем годом
     seen = {}
     for t in titles:
         seen.setdefault((t['kind'], t['slug']), []).append(t)
     for group in seen.values():
         if len(group) > 1:
             for t in group:
-                if not t['slug'].endswith(str(t['year'])):
-                    t['slug'] = f'{t["slug"]}-{t["year"]}'
+                t['slug'] = f'{t["slug"]}-{t["year"]}'
+    seen = {}
+    for t in titles:
+        seen.setdefault((t['kind'], t['slug']), []).append(t)
+    for group in seen.values():
+        if len(group) > 1:                    # тот же год — последняя надежда на старый ключ
+            for t in group:
+                t['slug'] = t['key']
     for t in titles:
         t['path'] = f'/{t["kind"]}/{t["slug"]}/'
         t['url'] = url(t['path'])
