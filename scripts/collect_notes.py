@@ -35,18 +35,17 @@ def main():
         elif c['decision'] == 'skip':
             status = 'пропущено'
         elif slug in hold:
-            status = 'ждёт решения редакции'
-        elif rating.startswith('18'):
-            status = 'скрыто: маркировка 18+'
-        elif rating.startswith('16') and c['ageMin'] < 16:
-            status = 'ждёт решения редакции: маркировка 16+, возраст НЭН ниже'
+            status = 'не публикуется по решению издателя'
         else:
             status = 'опубликовано'
             by_kind[(c.get('fixes') or {}).get('kind') or f['kind']] += 1
         stats[status] += 1
         age = ''
         if c and c['decision'] == 'publish':
-            age = f'{c["ageMin"]}–{c["ageMax"]}' if c['ageMax'] else f'с {c["ageMin"]}'
+            # Как на сайте: с маркировкой 16+ и 18+ — не раньше 16 лет.
+            lo = max(c['ageMin'], 16) if rating[:2] in ('16', '18') else c['ageMin']
+            hi = c['ageMax'] if c['ageMax'] and c['ageMax'] >= lo else None
+            age = f'{lo}–{hi}' if hi else f'с {lo}'
         rows.append({
             'slug': slug, 'название': f['title'], 'год': f['year'], 'раздел': f['kind'], 'статус': status,
             'источник текста': (c or {}).get('source', ''), 'возраст НЭН': age, 'маркировка': rating,
