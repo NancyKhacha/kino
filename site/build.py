@@ -342,7 +342,7 @@ NEN_ORG = {'@type': 'Organization', '@id': 'https://n-e-n.ru/#organization', 'na
 TABBAR = [('Каталог', '/katalog/'), ('Возраст', '/vozrast/'), ('Темы', '/tema/'), ('Подборки', '/podborki/'), ('Подобрать', '/podobrat/')]
 NAV = [('Мультфильмы', '/multfilmy/'), ('Мультсериалы', '/multserialy/'), ('Фильмы', '/filmy/'), ('По возрасту', '/vozrast/'),
        ('Темы', '/tema/'), ('Подборки', '/podborki/'), ('Подобрать', '/podobrat/')]
-ASSET_VERSION = '1'
+ASSET_VERSION = '2'
 
 
 def page(path, title, description, body, *, schema=(), og_type='website', image=None, active=None, noindex=False, canonical=None,
@@ -403,6 +403,7 @@ def page(path, title, description, body, *, schema=(), og_type='website', image=
 <div><h2>Разделы</h2><ul>{''.join(f'<li><a href="{url(p)}">{e(n)}</a></li>' for n, p in NAV)}<li><a href="{url('/izbrannoe/')}">Избранное</a></li></ul></div>
 <div><h2>НЭН</h2><ul>{''.join(f'<li><a href="{h}">{e(n)}</a></li>' for n, h in NEN_LINKS)}</ul></div>
 <div><h2>{e('НЭН в соцсетях')}</h2><ul>{''.join(f'<li><a href="{h}" rel="noopener">{e(n)}</a></li>' for n, h in NEN_SOCIAL)}</ul></div>
+<p class="footer-age"><span class="age-mark" aria-label="Возрастная маркировка 18+">18+</span> Сервис журнала «Нет, это нормально». В карточках взрослых фильмов прямо сказано, что в них есть.</p>
 </div></footer>
 <script src="{url('/assets/app.js')}?v={ASSET_VERSION}" defer></script>
 </body>

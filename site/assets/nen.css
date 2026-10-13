@@ -214,6 +214,8 @@ details.annotation .meta{margin-top:10px}
 .footer h2{color:var(--nen-blue-50);font:600 14px/1.4 var(--font-display);margin-bottom:10px}
 .footer ul{list-style:none;margin:0;padding:0;display:grid;gap:6px;font:400 14px/1.5 var(--font-text)}
 .footer p{font:400 14px/1.5 var(--font-text);color:#D7DBF0}
+.footer-age{grid-column:1/-1;display:flex;gap:10px;align-items:center;margin:0}
+.age-mark{display:inline-block;border:1.5px solid currentColor;border-radius:6px;padding:1px 6px;font:600 13px/1.4 var(--font-display)}
 
 /* ── Возраст вилками (как теги НЭН) ── */
 .age-bands{grid-template-columns:repeat(5,minmax(0,1fr))}
